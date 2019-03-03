@@ -1,0 +1,312 @@
+20190126 10:39:33 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 10:39:34 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 10:39:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 10:39:34 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 10:40:01 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 10:40:01 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 10:40:01 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 10:41:32 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 10:41:32 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 13:08:49 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 13:08:50 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 13:08:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 13:08:50 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 13:09:06 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 13:09:06 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 13:09:06 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 13:10:16 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 13:10:16 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 19:14:28 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 19:14:29 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 19:14:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 19:14:29 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 19:15:28 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 19:15:28 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 19:15:28 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 19:16:31 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 19:16:31 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 19:17:29 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 19:17:29 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 19:17:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 19:17:29 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 19:17:51 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 19:17:51 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 19:17:51 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 19:21:16 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 19:21:16 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 19:21:37 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 19:21:37 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 19:21:37 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 19:21:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 19:21:49 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 19:21:49 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 19:21:49 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 19:23:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 19:23:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 19:24:57 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 19:24:57 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 19:24:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 19:24:57 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 19:25:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 19:25:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 19:25:24 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 20:42:00 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 20:42:00 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 20:42:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 20:42:00 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 20:42:45 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:42:45 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 20:42:45 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 20:49:23 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:49:23 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 20:49:31 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 20:49:31 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 20:49:31 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 20:49:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 20:49:52 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:49:52 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 20:49:52 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 20:50:39 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:50:39 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 20:51:15 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 20:51:15 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 20:51:15 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 20:51:15 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 20:51:40 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:51:40 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 20:51:40 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 20:52:50 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:52:50 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 20:53:05 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 20:53:05 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 20:53:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 20:53:05 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 20:53:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:53:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 20:53:24 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 20:53:45 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:53:45 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 20:54:08 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 20:54:08 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 20:54:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 20:54:08 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 20:54:37 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:54:37 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 20:54:37 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 20:56:33 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 20:56:33 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 21:01:18 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 21:01:18 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 21:01:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 21:01:18 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 21:01:34 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:01:34 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 21:01:34 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 21:02:18 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:02:18 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 21:07:41 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 21:07:41 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 21:07:41 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 21:07:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 21:08:08 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:08:08 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 21:08:08 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 21:09:13 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:09:13 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 21:09:33 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 21:09:33 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 21:09:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 21:09:33 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 21:10:03 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:10:03 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 21:10:03 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 21:10:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:10:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 21:10:45 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 21:10:45 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 21:10:45 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 21:10:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 21:11:01 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:11:01 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 21:11:01 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 21:14:11 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 21:14:11 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 21:14:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 21:14:11 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 21:15:29 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:15:29 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 21:15:29 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 21:16:27 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 21:16:27 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 23:53:01 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 23:53:01 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 23:53:01 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 23:53:01 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 23:53:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 23:53:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 23:53:10 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17
+20190126 23:53:41 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 23:53:41 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	4
+20190126 23:54:26 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20190126 23:54:26 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20190126 23:54:26 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20190126 23:54:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20190126 23:54:46 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:19  
+*********on_auth_recv_cmd********
+20190126 23:54:46 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:20  
+ctype:	9
+20190126 23:54:46 *****DEBUG*****../../apps/lua/scripts/auth_server/uname_login.lua:58  
+user login sucess!:	gst101126	3	0	0	17

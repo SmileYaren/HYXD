@@ -1,0 +1,30 @@
+20181020 17:35:59 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181020 17:35:59 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181020 17:35:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181020 18:01:56 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181020 18:01:56 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181020 18:01:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181020 18:02:48 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:10  
+*********on_system_recv_cmd********
+20181020 18:02:48 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/system_server/ugame.lua:31: attempt to index a nil value (local 'uinfo')
+20181020 18:14:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181020 18:14:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181020 18:14:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181020 18:14:25 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:10  
+*********on_system_recv_cmd********
+20181020 18:14:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:168  
+cant find required field bonues_status
+
+20181020 18:14:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:242  
+convert to message UserGameInfo failed whith value uinfo 
+

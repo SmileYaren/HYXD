@@ -1,0 +1,142 @@
+20181031 00:42:09 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:46  
+**********gw_service_init**************
+20181031 00:42:09 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[1]  success
+20181031 00:42:09 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[2]  success
+20181031 00:42:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[Auth server]127.0.0.1:8000
+20181031 00:42:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:42:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:27  
+connect success to server [Auth server]127.0.0.1:8000
+20181031 00:42:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:27  
+connect success to server [System server]127.0.0.1:8001
+20181031 00:42:21 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:76  
+1	9	0
+20181031 00:42:21 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:76  
+2	13	0
+20181031 00:42:21 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:92  
+utag  	17
+20181031 00:43:09 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:46  
+**********gw_service_init**************
+20181031 00:43:09 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[1]  success
+20181031 00:43:09 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[2]  success
+20181031 00:43:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[Auth server]127.0.0.1:8000
+20181031 00:43:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:27  
+connect success to server [Auth server]127.0.0.1:8000
+20181031 00:43:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:27  
+connect success to server [System server]127.0.0.1:8001
+20181031 00:43:16 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:76  
+1	9	0
+20181031 00:43:16 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:76  
+2	13	0
+20181031 00:43:16 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:92  
+utag  	17
+20181031 00:43:24 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:175  
+gateway disconnect [System server]
+20181031 00:43:25 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:26 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:43:30 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:31 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:43:35 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:36 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:43:40 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:41 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:43:45 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:46 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:43:50 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:51 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:43:55 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:43:56 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:00 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:01 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:05 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:06 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:11 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:15 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:16 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:20 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:21 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:25 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:26 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:30 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:31 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:35 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:36 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:40 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:41 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:45 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:46 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:50 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:51 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:44:55 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:44:56 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:45:00 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:45:01 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:45:05 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:45:06 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:45:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:45:11 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:45:15 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:45:16 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:45:20 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:45:21 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001
+20181031 00:45:25 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:39  
+connecting to server[System server]127.0.0.1:8001
+20181031 00:45:26 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:23  
+connect error to server[System server]127.0.0.1:8001

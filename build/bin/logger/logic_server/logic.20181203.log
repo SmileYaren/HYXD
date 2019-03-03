@@ -1,0 +1,4 @@
+20181203 07:22:26 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181203 07:22:26 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:229  
+player uid 17 disconnect!

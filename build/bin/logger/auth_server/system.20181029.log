@@ -1,0 +1,6 @@
+20181029 22:54:01 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181029 22:54:01 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181029 22:54:01 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!

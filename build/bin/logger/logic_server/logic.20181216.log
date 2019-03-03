@@ -1,0 +1,398 @@
+20181216 22:21:50 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181216 22:21:51 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181216 22:21:51 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181216 22:21:51 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181216 22:21:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20181216 22:21:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	28
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	29
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	30
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	31
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	32
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	33
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	34
+20181216 22:21:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:106  
+this is all robot 7  has enter!!
+20181216 22:22:14 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 22:22:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 22:22:28 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	27
+20181216 22:22:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:286: attempt to index a nil value (field '?')
+20181216 22:22:33 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 22:22:36 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	17	match state: 	1	player state: 	1
+20181216 22:22:36 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:22:36 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[28] enter match
+20181216 22:22:36 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	28	match state: 	1	player state: 	1
+20181216 22:22:36 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:22:36 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:36 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:37 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[29] enter match
+20181216 22:22:37 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	29	match state: 	1	player state: 	1
+20181216 22:22:37 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:22:37 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:37 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:37 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:37 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[30] enter match
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	30	match state: 	1	player state: 	1
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:22:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:38:02 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	4
+20181216 22:38:02 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:229  
+player uid 17 disconnect!
+20181216 22:38:14 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 22:38:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 22:38:18 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 22:38:20 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	4
+20181216 22:38:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:221  
+remove from wait list
+20181216 22:38:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:229  
+player uid 17 disconnect!
+20181216 22:39:23 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181216 22:39:23 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181216 22:39:23 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181216 22:39:23 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181216 22:39:23 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20181216 22:39:23 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	28
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	29
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	30
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	31
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	32
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	33
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	34
+20181216 22:39:28 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:106  
+this is all robot 7  has enter!!
+20181216 22:40:11 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 22:40:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 22:40:36 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 22:40:39 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	17	match state: 	1	player state: 	1
+20181216 22:40:39 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:40:39 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[28] enter match
+20181216 22:40:39 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	28	match state: 	1	player state: 	1
+20181216 22:40:39 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:40:39 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:39 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[29] enter match
+20181216 22:40:40 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	29	match state: 	1	player state: 	1
+20181216 22:40:40 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:40:40 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:40 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:40 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:40 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[30] enter match
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	30	match state: 	1	player state: 	1
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	25	table
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:41 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:84  
+Logic server	26	table
+20181216 22:40:53 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	27
+20181216 22:50:43 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181216 22:50:43 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181216 22:50:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181216 22:50:43 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181216 22:50:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20181216 22:50:43 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	28
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	29
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	30
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	31
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	32
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	33
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	34
+20181216 22:50:48 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:106  
+this is all robot 7  has enter!!
+20181216 22:50:52 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 22:50:52 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 22:50:56 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 22:50:59 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	17	match state: 	1	player state: 	1
+20181216 22:50:59 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[28] enter match
+20181216 22:50:59 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	28	match state: 	1	player state: 	1
+20181216 22:51:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[29] enter match
+20181216 22:51:00 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	29	match state: 	1	player state: 	1
+20181216 22:51:01 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[30] enter match
+20181216 22:51:01 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	30	match state: 	1	player state: 	1
+20181216 22:51:17 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	4
+20181216 22:51:17 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:229  
+player uid 17 disconnect!
+20181216 22:52:32 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181216 22:52:32 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181216 22:52:32 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181216 22:52:32 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181216 22:52:32 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20181216 22:52:32 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	28
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	29
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	30
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	31
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	32
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	33
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	34
+20181216 22:52:37 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:106  
+this is all robot 7  has enter!!
+20181216 22:52:38 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 22:52:38 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 22:52:44 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 22:52:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	17	match state: 	1	player state: 	1
+20181216 22:52:48 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[28] enter match
+20181216 22:52:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	28	match state: 	1	player state: 	1
+20181216 22:52:49 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[29] enter match
+20181216 22:52:49 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	29	match state: 	1	player state: 	1
+20181216 22:52:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[30] enter match
+20181216 22:52:50 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	30	match state: 	1	player state: 	1
+20181216 22:52:55 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	4
+20181216 22:52:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:229  
+player uid 17 disconnect!
+20181216 22:55:17 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 22:55:17 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 22:55:20 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 22:55:23 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	17	match state: 	1	player state: 	1
+20181216 22:56:29 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	4
+20181216 22:56:29 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:229  
+player uid 17 disconnect!
+20181216 22:58:32 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 22:58:32 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 22:58:44 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 22:58:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	17	match state: 	1	player state: 	1
+20181216 23:07:39 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	4
+20181216 23:07:39 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:229  
+player uid 17 disconnect!
+20181216 23:11:29 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181216 23:11:29 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181216 23:11:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181216 23:11:29 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181216 23:11:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20181216 23:11:29 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	28
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	29
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	30
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	31
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	32
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	33
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	34
+20181216 23:11:34 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:106  
+this is all robot 7  has enter!!
+20181216 23:12:15 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181216 23:12:15 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181216 23:12:15 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181216 23:12:15 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181216 23:12:15 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:22  
+connect to auth center db sucess!!!
+20181216 23:12:15 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	28
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	29
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	30
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	31
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	32
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	33
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	34
+20181216 23:12:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:106  
+this is all robot 7  has enter!!
+20181216 23:12:37 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	21
+20181216 23:12:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181216 23:12:45 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:14  
+**********on_logic_recv_cmd:	23
+20181216 23:12:46 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	17	match state: 	1	player state: 	1
+20181216 23:12:46 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[28] enter match
+20181216 23:12:46 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	28	match state: 	1	player state: 	1
+20181216 23:12:46 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:66  
+tell other player:	17
+20181216 23:12:47 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[29] enter match
+20181216 23:12:47 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	29	match state: 	1	player state: 	1
+20181216 23:12:47 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:66  
+tell other player:	17
+20181216 23:12:47 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:66  
+tell other player:	28
+20181216 23:12:48 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:177  
+[30] enter match
+20181216 23:12:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+uid:	30	match state: 	1	player state: 	1
+20181216 23:12:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:66  
+tell other player:	17
+20181216 23:12:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:66  
+tell other player:	28
+20181216 23:12:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:66  
+tell other player:	29

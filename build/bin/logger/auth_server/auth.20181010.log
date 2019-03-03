@@ -1,0 +1,154 @@
+20181010 19:45:11 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20181010 19:45:11 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20181010 19:45:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20181010 19:46:10 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:46:10 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:46:10 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:46:10 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 19:47:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:47:24 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:47:24 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 19:54:15 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:54:15 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	3	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:54:15 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 19:54:18 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:54:18 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	3	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:54:18 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 19:54:19 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:54:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	3	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:54:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 19:54:20 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:54:20 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	3	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:54:20 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 19:54:50 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:54:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	4	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:54:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 19:55:56 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 19:55:56 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	5	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 19:55:56 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 20:01:29 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20181010 20:01:29 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20181010 20:01:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20181010 20:02:36 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20181010 20:02:36 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20181010 20:02:36 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20181010 20:03:00 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:03:00 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:03:00 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+14	gst201000
+20181010 20:08:39 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:08:39 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:08:39 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+random unick :gst201000
+20181010 20:08:39 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:08:39 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+15	gst201000
+20181010 20:14:16 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:14:16 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	3	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:14:16 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+15	gst201000
+20181010 20:14:57 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20181010 20:14:57 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20181010 20:14:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20181010 20:15:16 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:15:16 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:15:16 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+15	gst201000
+20181010 20:15:49 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:15:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:15:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:15:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+16	gst101126
+20181010 20:16:13 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20181010 20:16:13 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20181010 20:16:13 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20181010 20:16:33 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:16:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:16:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+16	gst101126
+20181010 20:16:52 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:16:52 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:16:52 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+16	gst101126
+20181010 20:18:45 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:18:45 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	3	uDWvSYBkiM3ETVxkKI1oNzpvW0ultSIb
+20181010 20:18:45 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:70  
+16	gst101126
+20181010 20:21:38 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:21:38 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	4	8jvrDstUnDuTnnCK8jvrDs
+20181010 20:21:38 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:168  
+cant find required field status
+
+20181010 20:22:42 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20181010 20:22:42 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	5	8jvrDstUnDuTnnCK8jvrDs
+20181010 20:22:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:168  
+cant find required field status
+
+20181010 20:22:57 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20181010 20:22:57 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20181010 20:22:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!

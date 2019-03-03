@@ -1,0 +1,796 @@
+20180930 13:47:05 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 13:47:05 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 13:47:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 13:47:49 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:47:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	f3835mcP6Fvbw5aLkipU9DRdbj0ExJKf
+20180930 13:47:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	f3835mcP6Fvbw5aLkipU9DRdbj0ExJKf
+20180930 13:48:25 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:48:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	SK0MfFYCpLwNyfdXrmrnx4uzGijyd5ax
+20180930 13:52:47 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 13:52:47 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 13:52:47 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	MDdazkFyDe9zw9OMpd3m8Ey5rKWgP3fI
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+开始查询数据库
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:43  
+查询数据库完成
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:24  
+开始插入数据库
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:74  
+插入数据库完成
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	MDdazkFyDe9zw9OMpd3m8Ey5rKWgP3fI
+20180930 13:53:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+开始查询数据库
+20180930 13:54:54 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 13:54:54 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 13:54:54 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	7AzM4xHxqjH03GXnbhIOTO9OSInhzKHx
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:24  
+begin insert db
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:76  
+insert db end
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	7AzM4xHxqjH03GXnbhIOTO9OSInhzKHx
+20180930 13:55:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:55:31 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:55:31 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	WX50UeQTWNhbxxBV7cCb7zCRHdOhiFAH
+20180930 13:55:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:57:05 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:57:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	J090zDAAATHfBLKDUqWrK7oiHCbgsCqB
+20180930 13:57:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:57:20 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 13:57:20 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 13:57:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	72b783z9xuYS0jGhk72CzvKpjNjfcevF
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:76  
+insert db end
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	72b783z9xuYS0jGhk72CzvKpjNjfcevF
+20180930 13:57:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:57:44 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:57:44 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	mkPaKOYVKxxJedvucBDROBuk37EQFXMP
+20180930 13:57:44 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:58:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:58:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	vmu4hQkSnrLKjATOOyBPXaJWtQtElV7a
+20180930 13:58:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	dvNWBmNvAW00bVYS3jgVxIpJMGvYlOtb
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:76  
+insert db end
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	dvNWBmNvAW00bVYS3jgVxIpJMGvYlOtb
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 13:58:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:63  
+9	gst846972
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	cIlp753gUjjuWDmWYCqQ1iEsz4n0iTqf
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:76  
+insert db end
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	cIlp753gUjjuWDmWYCqQ1iEsz4n0iTqf
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 13:58:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:63  
+10	gst480224
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	ui6nkqklkmzSliuPKzNEDil68k2jPnlP
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:76  
+insert db end
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	ui6nkqklkmzSliuPKzNEDil68k2jPnlP
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:00:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:63  
+11	gst797265
+20180930 14:01:43 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:01:43 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:01:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	60uMqCboGpiD9lJkFMTyfHsXjc5TWR61
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:76  
+insert db end
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:93  
+query again end
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	60uMqCboGpiD9lJkFMTyfHsXjc5TWR61
+20180930 14:02:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:06:32 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:06:32 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:06:32 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	B67s1eHIQMl6ip5LTRgx8uaaWjrWiD0W
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:76  
+insert db end
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:93  
+query again end
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	B67s1eHIQMl6ip5LTRgx8uaaWjrWiD0W
+20180930 14:06:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:10:31 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:10:31 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:10:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	2iwEFGcRHRuG11Y7o5eyFukX2OILcqbi
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:38  
+1
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:48  
+query db end
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:80  
+insert db end
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:97  
+query again end
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	2iwEFGcRHRuG11Y7o5eyFukX2OILcqbi
+20180930 14:10:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db
+20180930 14:11:47 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:11:47 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:11:47 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 14:12:05 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:12:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	cbH2LBk6VXWAh5rAvKbGx9VmAOzJ5hre
+20180930 14:12:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:35: attempt to concatenate a userdata value (global 'mysql_conn')
+20180930 14:12:47 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:12:47 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:12:47 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	msIY0l1PI9sxOAvRCS1qsj5xuW3wesyG
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 0108BCC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "msIY0l1PI9sxOAvRCS1qsj5xuW3wesyG" limit 1
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:38  
+1
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:48  
+query db end
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:80  
+insert db end
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:97  
+query again end
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	msIY0l1PI9sxOAvRCS1qsj5xuW3wesyG
+20180930 14:12:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 0108BCC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "msIY0l1PI9sxOAvRCS1qsj5xuW3wesyG" limit 1
+20180930 14:15:13 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:15:13 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:15:13 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:16  
+connect to auth center db success!!!!
+20180930 14:15:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:15:24 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	PJgrn1I1Mq67AxDmRGSqr69tdFLf8yI3
+20180930 14:15:24 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:15:24 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	PJgrn1I1Mq67AxDmRGSqr69tdFLf8yI3
+20180930 14:15:42 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:15:42 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:15:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:16  
+connect to auth center db success!!!!
+20180930 14:15:51 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:15:51 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	ONIWdmH72EkMPeF22TGkcrozCUIM9Nvc
+20180930 14:15:51 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+begin insert db
+20180930 14:15:51 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	ONIWdmH72EkMPeF22TGkcrozCUIM9Nvc
+20180930 14:20:40 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:20:40 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:20:40 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:16  
+connect to auth center db success!!!!
+20180930 14:21:05 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:21:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	FAnGsHjR9GzdmtAQRMQ5dkGh0cBLxHxt
+20180930 14:21:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+@@1
+20180930 14:21:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:27  
+begin insert db
+20180930 14:21:05 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	FAnGsHjR9GzdmtAQRMQ5dkGh0cBLxHxt
+20180930 14:23:08 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 14:23:08 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 14:23:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:16  
+connect to auth center db success!!!!
+20180930 14:23:17 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:23:17 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:10  
+1	1	1	9dKQMl5iHyulTAH91ikRGErA1XyBPncM
+20180930 14:23:17 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:10  
+1	1	1	9dKQMl5iHyulTAH91ikRGErA1XyBPncM
+20180930 14:23:23 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:23:23 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:10  
+1	1	1	B7wbucWShMyiIKbVjwPYeW9YT9bdLuwU
+20180930 14:23:24 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:23:24 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:10  
+1	1	1	eugREflyHwikkqg4bL2UAotjnAB6zrki
+20180930 14:23:25 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 14:23:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:10  
+1	1	1	STn8dFfJJN3CiDPUFMEIpEttkNUKkVjq
+20180930 14:23:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:10  
+1	1	1	STn8dFfJJN3CiDPUFMEIpEttkNUKkVjq
+20180930 14:23:25 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:58  
+20	gst827844
+20180930 16:41:15 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 16:41:15 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 16:41:15 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 17:06:46 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 17:06:46 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 17:06:46 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 17:08:31 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:08:31 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	xoVny5qdLCDHHRyNQAnXuG9TiUeeyprJ
+20180930 17:08:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:74  
+insert db end
+20180930 17:08:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:91  
+query again end
+20180930 17:08:31 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	xoVny5qdLCDHHRyNQAnXuG9TiUeeyprJ
+20180930 17:33:32 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 17:33:32 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 17:33:32 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 17:33:50 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:33:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	TcRMnR4nKhwCrKfKQneQTFVFDuyJXXTO
+20180930 17:33:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	nil
+20180930 17:33:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst201000
+20180930 17:33:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:33:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	TcRMnR4nKhwCrKfKQneQTFVFDuyJXXTO
+20180930 17:39:03 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 17:39:03 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 17:39:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	BYhyKeFGEyzzK1Nk1dBaohi2dJejxJLt
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04AF0CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "BYhyKeFGEyzzK1Nk1dBaohi2dJejxJLt" limit 1
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	nil
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst201000
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	BYhyKeFGEyzzK1Nk1dBaohi2dJejxJLt
+20180930 17:39:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04AF0CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "BYhyKeFGEyzzK1Nk1dBaohi2dJejxJLt" limit 1
+20180930 17:46:23 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 17:46:23 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 17:46:23 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	vbFA0IRnHvS7ScQuSmtyqShtcgxDMMTu
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "vbFA0IRnHvS7ScQuSmtyqShtcgxDMMTu" limit 1
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	nil
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst201000
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	vbFA0IRnHvS7ScQuSmtyqShtcgxDMMTu
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "vbFA0IRnHvS7ScQuSmtyqShtcgxDMMTu" limit 1
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	table
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:42  
+bengin start login!!!!
+20180930 17:46:33 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:63  
+24	gst201000
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	zEhboPK9NmakdBbBYM5uSIJHBKB7Qnke
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "zEhboPK9NmakdBbBYM5uSIJHBKB7Qnke" limit 1
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	nil
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst846972
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	zEhboPK9NmakdBbBYM5uSIJHBKB7Qnke
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "zEhboPK9NmakdBbBYM5uSIJHBKB7Qnke" limit 1
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	table
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:42  
+bengin start login!!!!
+20180930 17:48:55 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:63  
+25	gst846972
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	MgJ8z3N9vdPahPhrkxMQgNKLNI7BUybL
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "MgJ8z3N9vdPahPhrkxMQgNKLNI7BUybL" limit 1
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	nil
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst480224
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	MgJ8z3N9vdPahPhrkxMQgNKLNI7BUybL
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "MgJ8z3N9vdPahPhrkxMQgNKLNI7BUybL" limit 1
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	table
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:42  
+bengin start login!!!!
+20180930 17:49:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:63  
+26	gst480224
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	XG8i9zjv6Kt1DiI5P7DOUpS8ThNM963F
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "XG8i9zjv6Kt1DiI5P7DOUpS8ThNM963F" limit 1
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	nil
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst797265
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	XG8i9zjv6Kt1DiI5P7DOUpS8ThNM963F
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FA3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "XG8i9zjv6Kt1DiI5P7DOUpS8ThNM963F" limit 1
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:25  
+*********	table
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:42  
+bengin start login!!!!
+20180930 17:49:19 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:63  
+27	gst797265
+20180930 17:50:48 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180930 17:50:48 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180930 17:50:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	txNXoLG11s2AuqLmBawji2pXzueFbqwh
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "txNXoLG11s2AuqLmBawji2pXzueFbqwh" limit 1
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst201000
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	txNXoLG11s2AuqLmBawji2pXzueFbqwh
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "txNXoLG11s2AuqLmBawji2pXzueFbqwh" limit 1
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:51:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+1	gst201000
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	lrvxpqgQKnCPtpRs1QbTzuXbAE6WIspS
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "lrvxpqgQKnCPtpRs1QbTzuXbAE6WIspS" limit 1
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst846972
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	lrvxpqgQKnCPtpRs1QbTzuXbAE6WIspS
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "lrvxpqgQKnCPtpRs1QbTzuXbAE6WIspS" limit 1
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:51:59 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+2	gst846972
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	0dlz9txTs5gktuIUyfD3DChtEQsjRIuq
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "0dlz9txTs5gktuIUyfD3DChtEQsjRIuq" limit 1
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst480224
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	0dlz9txTs5gktuIUyfD3DChtEQsjRIuq
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "0dlz9txTs5gktuIUyfD3DChtEQsjRIuq" limit 1
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+3	gst480224
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	lRTuj0VOsKBbe2epr79DzRNrCs7WiJMV
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "lRTuj0VOsKBbe2epr79DzRNrCs7WiJMV" limit 1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst797265
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	lRTuj0VOsKBbe2epr79DzRNrCs7WiJMV
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "lRTuj0VOsKBbe2epr79DzRNrCs7WiJMV" limit 1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+4	gst797265
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	Wt53zFdzi9Go9loeT8XEnwA1jkBiYHdW
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "Wt53zFdzi9Go9loeT8XEnwA1jkBiYHdW" limit 1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst768383
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	Wt53zFdzi9Go9loeT8XEnwA1jkBiYHdW
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "Wt53zFdzi9Go9loeT8XEnwA1jkBiYHdW" limit 1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+5	gst768383
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	DiFoyPVeD7AXEGRnlIgrEszfEMjSx9kf
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "DiFoyPVeD7AXEGRnlIgrEszfEMjSx9kf" limit 1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst211987
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	DiFoyPVeD7AXEGRnlIgrEszfEMjSx9kf
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "DiFoyPVeD7AXEGRnlIgrEszfEMjSx9kf" limit 1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:08 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+6	gst211987
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	KDkBua2m3t5Wo8VfEcQMF3dvUGtfQ18u
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "KDkBua2m3t5Wo8VfEcQMF3dvUGtfQ18u" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst317846
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	KDkBua2m3t5Wo8VfEcQMF3dvUGtfQ18u
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "KDkBua2m3t5Wo8VfEcQMF3dvUGtfQ18u" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+7	gst317846
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	SntG5z00B6NkxLxuM9r6RFz5unhU2tld
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "SntG5z00B6NkxLxuM9r6RFz5unhU2tld" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst556542
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	SntG5z00B6NkxLxuM9r6RFz5unhU2tld
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "SntG5z00B6NkxLxuM9r6RFz5unhU2tld" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+8	gst556542
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	lebhgnX0cH6jW49ujFnUJ4gSyKvK0yCD
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "lebhgnX0cH6jW49ujFnUJ4gSyKvK0yCD" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst207128
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	lebhgnX0cH6jW49ujFnUJ4gSyKvK0yCD
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "lebhgnX0cH6jW49ujFnUJ4gSyKvK0yCD" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+9	gst207128
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	10FS7XSm2KsmlFPaj62EpmkdnaEhDGSE
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "10FS7XSm2KsmlFPaj62EpmkdnaEhDGSE" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst656933
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	10FS7XSm2KsmlFPaj62EpmkdnaEhDGSE
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "10FS7XSm2KsmlFPaj62EpmkdnaEhDGSE" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+10	gst656933
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	BDS8lf7z6IOun2BwbqhMjUgXCBc2vJWg
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "BDS8lf7z6IOun2BwbqhMjUgXCBc2vJWg" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst332983
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	BDS8lf7z6IOun2BwbqhMjUgXCBc2vJWg
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "BDS8lf7z6IOun2BwbqhMjUgXCBc2vJWg" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+11	gst332983
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	Hlqj69wAN87f8SuF9647kJf6ur8jlP7l
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "Hlqj69wAN87f8SuF9647kJf6ur8jlP7l" limit 1
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst481689
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:09 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	Hlqj69wAN87f8SuF9647kJf6ur8jlP7l
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "Hlqj69wAN87f8SuF9647kJf6ur8jlP7l" limit 1
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+12	gst481689
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	5PxRV2r7bYAy0oNxnyGda256G0QnURk1
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "5PxRV2r7bYAy0oNxnyGda256G0QnURk1" limit 1
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	0
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:81  
+begin insert db	gst826635
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:90  
+insert db end
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	5PxRV2r7bYAy0oNxnyGda256G0QnURk1
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:35  
+begin query db:userdata: 04FB3CC0  select uid, unick, usex, uface, uvip, status, is_guest from uinfo where guest_key = "5PxRV2r7bYAy0oNxnyGda256G0QnURk1" limit 1
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:44  
+query db end:	1
+20180930 17:52:10 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:60  
+13	gst826635

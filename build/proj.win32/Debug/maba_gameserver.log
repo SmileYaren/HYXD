@@ -1,0 +1,136 @@
+﻿生成启动时间为 2019/1/3 23:23:01。
+     1>项目“E:\VS_Project\moba_game_server\moba_server\build\proj.win32\maba_gameserver.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\VS_Project\moba_game_server\moba_server\3rd\tolua /I"E:\VS_Project\moba_game_server\moba_server\3rd\lua-5.3.4\src" /IE:\VS_Project\moba_game_server\moba_server\build\proj.win32\hiredis\include /IE:\VS_Project\moba_game_server\moba_server\build\proj.win32\mysqlclient\x86\include /IE:\VS_Project\moba_game_server\moba_server\utils /IE:\VS_Project\moba_game_server\moba_server\netbus /IE:\VS_Project\moba_game_server\moba_server\3rd\libuv\include /IE:\VS_Project\moba_game_server\moba_server\3rd\http_parser /IE:\VS_Project\moba_game_server\moba_server\3rd\crypto /IE:\VS_Project\moba_game_server\moba_server\3rd\mjson /IE:\VS_Project\moba_game_server\moba_server\3rd\protobuf\src /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\netbus\netbus.cc
+         netbus.cc
+     1>e:\vs_project\moba_game_server\moba_server\netbus\netbus.cc(21): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>e:\vs_project\moba_game_server\moba_server\netbus\netbus.cc(461): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : 参见“inet_addr”的声明
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\maba_gameserver.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\VS_Project\moba_game_server\moba_server\build\proj.win32\hiredis\x86_libs /LIBPATH:E:\VS_Project\moba_game_server\moba_server\build\proj.win32\mysqlclient\x86\lib /LIBPATH:E:\VS_Project\moba_game_server\moba_server\build\proj.win32\protobuf kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:Libcmtd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\maba_gameserver.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\maba_gameserver.lib" /MACHINE:X86 ws2_32.lib Iphlpapi.lib Psapi.lib Userenv.lib libprotobufd.lib libprotocd.lib  Libcmtd.lib libmysql.lib  /NODEFAULTLIB:libcmt.lib  hiredis.lib
+          Debug\base64_decoder.obj
+         Debug\base64_encoder.obj
+         Debug\md5.obj
+         Debug\sha1.obj
+         Debug\http_parser.obj
+         "Debug\fs-poll.obj"
+         Debug\inet.obj
+         Debug\threadpool.obj
+         "Debug\uv-common.obj"
+         Debug\version.obj
+         Debug\async.obj
+         Debug\core.obj
+         Debug\dl.obj
+         Debug\error.obj
+         "Debug\fs-event.obj"
+         Debug\fs.obj
+         Debug\getaddrinfo.obj
+         Debug\getnameinfo.obj
+         Debug\handle.obj
+         "Debug\loop-watcher.obj"
+         Debug\pipe.obj
+         Debug\poll.obj
+         "Debug\process-stdio.obj"
+         Debug\process.obj
+         Debug\req.obj
+         Debug\signal.obj
+         Debug\snprintf.obj
+         Debug\stream.obj
+         Debug\tcp.obj
+         Debug\thread.obj
+         Debug\timer.obj
+         Debug\tty.obj
+         Debug\udp.obj
+         Debug\util.obj
+         Debug\winapi.obj
+         Debug\winsock.obj
+         Debug\lapi.obj
+         Debug\lauxlib.obj
+         Debug\lbaselib.obj
+         Debug\lbitlib.obj
+         Debug\lcode.obj
+         Debug\lcorolib.obj
+         Debug\lctype.obj
+         Debug\ldblib.obj
+         Debug\ldebug.obj
+         Debug\ldo.obj
+         Debug\ldump.obj
+         Debug\lfunc.obj
+         Debug\lgc.obj
+         Debug\linit.obj
+         Debug\liolib.obj
+         Debug\llex.obj
+         Debug\lmathlib.obj
+         Debug\lmem.obj
+         Debug\loadlib.obj
+         Debug\lobject.obj
+         Debug\lopcodes.obj
+         Debug\loslib.obj
+         Debug\lparser.obj
+         Debug\lstate.obj
+         Debug\lstring.obj
+         Debug\lstrlib.obj
+         Debug\ltable.obj
+         Debug\ltablib.obj
+         Debug\ltm.obj
+         Debug\lundump.obj
+         Debug\lutf8lib.obj
+         Debug\lvm.obj
+         Debug\lzio.obj
+         Debug\json.obj
+         Debug\tolua_event.obj
+         Debug\tolua_fix.obj
+         Debug\tolua_is.obj
+         Debug\tolua_map.obj
+         Debug\tolua_push.obj
+         Debug\tolua_to.obj
+         Debug\main.obj
+         Debug\game.pb.obj
+         Debug\mysql_wrapper.obj
+         Debug\redis_wrapper.obj
+         Debug\lua_wrapper.obj
+         Debug\mysql_export_to_lua.obj
+         Debug\netbus_export_to_lua.obj
+         Debug\proto_man_export_to_lua.obj
+         Debug\redis_export_to_lua.obj
+         Debug\scheduler_export_to_lua.obj
+         Debug\service_export_to_lua.obj
+         Debug\session_export_to_lua.obj
+         Debug\utils_export_to_lua.obj
+         Debug\netbus.obj
+         Debug\proto_man.obj
+         Debug\service.obj
+         Debug\service_man.obj
+         Debug\session_uv.obj
+         Debug\tp_protocol.obj
+         Debug\udp_session.obj
+         Debug\ws_protocol.obj
+         Debug\catch_alloc.obj
+         Debug\logger.obj
+         Debug\small_alloc.obj
+         Debug\timestamp.obj
+         Debug\time_list.obj
+         hiredis.lib(hiredis.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+     1>base64_decoder.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+         正在生成代码
+         已完成代码的生成
+     1>hiredis.lib(hiredis.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>hiredis.lib(sds.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>hiredis.lib(net.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_ANSI.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_Common.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_Error.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_EventLog.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_FDAPI.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_fdapi_crt.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_RedisLog.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(win32_rfdmap.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_Time.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>Win32_Interop.lib(Win32_variadicFunctor.obj) : warning LNK4204: “E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+         maba_gameserver.vcxproj -> E:\VS_Project\moba_game_server\moba_server\build\proj.win32\Debug\maba_gameserver.exe
+     1>已完成生成项目“E:\VS_Project\moba_game_server\moba_server\build\proj.win32\maba_gameserver.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:23.05

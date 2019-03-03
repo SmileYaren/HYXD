@@ -1,0 +1,226 @@
+20181229 00:05:39 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:30  
+System Server Start at 8001
+20181229 00:05:39 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:35  
+register System service:[2] success!!!
+20181229 00:05:39 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181229 00:05:39 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181229 00:05:39 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:24  
+connect to redis rank db success!!!!
+20181229 00:05:39 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181229 00:05:44 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:9  
+********load_sys_msg
+20181229 00:05:44 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:77  
+*************get_sys_msg****************
+20181229 00:05:44 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+1	欢迎来到moba游戏世界
+20181229 00:05:44 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+2	系统消息1系统消息1系统消息1系统消息1
+20181229 00:05:44 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+3	系统消息2系统消息2系统消息2系统消息2
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:25  
+200	0	2
+20181229 00:06:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:244  
+*****update_login_bonues**********
+20181229 00:06:02 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:06:02 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:06:02 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:272  
+*****update_login_bonues_status**********
+20181229 00:06:02 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:300  
+*****add_chip**********
+20181229 00:06:02 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:103  
+send:	0
+20181229 00:06:47 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:15:15 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:30  
+System Server Start at 8001
+20181229 00:15:15 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:35  
+register System service:[2] success!!!
+20181229 00:15:15 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181229 00:15:15 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181229 00:15:15 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:24  
+connect to redis rank db success!!!!
+20181229 00:15:15 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181229 00:15:20 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:9  
+********load_sys_msg
+20181229 00:15:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:77  
+*************get_sys_msg****************
+20181229 00:15:20 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+1	欢迎来到moba游戏世界
+20181229 00:15:20 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+2	系统消息1系统消息1系统消息1系统消息1
+20181229 00:15:20 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+3	系统消息2系统消息2系统消息2系统消息2
+20181229 00:16:51 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:16:51 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:16:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:16:51 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:16:52 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:16:52 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000
+20181229 00:18:16 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:18:22 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:18:22 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:18:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:18:22 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:18:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:18:22 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000
+20181229 00:18:35 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:18:35 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:18:35 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:18:35 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:18:35 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:18:35 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000
+20181229 00:18:48 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:18:55 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:18:55 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:18:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:18:55 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:18:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:18:55 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000
+20181229 00:19:52 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:30  
+System Server Start at 8001
+20181229 00:19:52 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:35  
+register System service:[2] success!!!
+20181229 00:19:52 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181229 00:19:52 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181229 00:19:52 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:24  
+connect to redis rank db success!!!!
+20181229 00:19:52 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181229 00:19:57 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:9  
+********load_sys_msg
+20181229 00:19:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:77  
+*************get_sys_msg****************
+20181229 00:19:57 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+1	欢迎来到moba游戏世界
+20181229 00:19:57 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+2	系统消息1系统消息1系统消息1系统消息1
+20181229 00:19:57 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+3	系统消息2系统消息2系统消息2系统消息2
+20181229 00:20:45 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:20:45 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:20:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:20:45 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:20:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:20:45 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000
+20181229 00:23:40 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:30  
+System Server Start at 8001
+20181229 00:23:40 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:35  
+register System service:[2] success!!!
+20181229 00:23:40 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181229 00:23:40 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181229 00:23:40 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:24  
+connect to redis rank db success!!!!
+20181229 00:23:40 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181229 00:23:45 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:9  
+********load_sys_msg
+20181229 00:23:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:77  
+*************get_sys_msg****************
+20181229 00:23:45 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+1	欢迎来到moba游戏世界
+20181229 00:23:45 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+2	系统消息1系统消息1系统消息1系统消息1
+20181229 00:23:45 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+3	系统消息2系统消息2系统消息2系统消息2
+20181229 00:24:18 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:24:18 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:24:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:24:18 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:24:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:24:18 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000
+20181229 00:41:37 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:30  
+System Server Start at 8001
+20181229 00:41:37 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:35  
+register System service:[2] success!!!
+20181229 00:41:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181229 00:41:37 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181229 00:41:37 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:24  
+connect to redis rank db success!!!!
+20181229 00:41:37 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181229 00:41:42 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:9  
+********load_sys_msg
+20181229 00:41:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:77  
+*************get_sys_msg****************
+20181229 00:41:42 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+1	欢迎来到moba游戏世界
+20181229 00:41:42 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+2	系统消息1系统消息1系统消息1系统消息1
+20181229 00:41:42 *****DEBUG*****../../apps/lua/scripts/system_server/sys_msg.lua:23  
+3	系统消息2系统消息2系统消息2系统消息2
+20181229 00:41:56 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:16  
+*********on_system_recv_cmd********
+20181229 00:41:56 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:12  
+*************ugame.get_ugame_info****************	17
+20181229 00:41:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:110  
+*************get_ugame_info****************	17
+20181229 00:41:56 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:35  
+***********flush_world_rank_with_uchip_inredis*************
+20181229 00:41:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:182  
+*************get_bonues_info****************
+20181229 00:41:56 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:46  
+user add rank list success!!!	17	2000

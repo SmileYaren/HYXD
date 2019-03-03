@@ -1,0 +1,149 @@
+20181030 23:10:54 !!!!!ERROR!!!!! trunk:0  
+error loading module 'game_config' from file '../../apps/lua/scripts/game_config.lua':
+	../../apps/lua/scripts/game_config.lua:64: '}' expected (to close '{' at line 24) near 'rank_redis'
+20181030 23:10:59 !!!!!ERROR!!!!! trunk:0  
+error loading module 'game_config' from file '../../apps/lua/scripts/game_config.lua':
+	../../apps/lua/scripts/game_config.lua:64: '}' expected (to close '{' at line 24) near 'rank_redis'
+20181030 23:11:37 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181030 23:11:37 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181030 23:11:37 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181030 23:11:37 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181030 23:11:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181030 23:11:52 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:11:52 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181030 23:11:52 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181030 23:11:52 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/ugame.lua:48: attempt to index a boolean value (upvalue 'redis_game')
+20181030 23:18:26 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181030 23:18:27 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181030 23:18:27 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181030 23:18:27 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181030 23:18:27 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181030 23:18:37 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:18:37 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181030 23:18:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181030 23:18:37 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/ugame.lua:46: attempt to index a boolean value (upvalue 'redis_game')
+20181030 23:20:03 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181030 23:20:03 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181030 23:20:03 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181030 23:20:03 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181030 23:20:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181030 23:20:10 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:20:10 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181030 23:20:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181030 23:20:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/redis_game.lua:35: attempt to concatenate a nil value
+20181030 23:20:55 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181030 23:20:55 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181030 23:20:55 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181030 23:20:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181030 23:20:55 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181030 23:21:04 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:21:04 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181030 23:21:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181030 23:21:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181030 23:21:04 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:22  
+100	0	1
+20181030 23:21:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:155  
+*****update_login_bonues**********
+20181030 23:21:13 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:21:13 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181030 23:21:13 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181030 23:21:13 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181030 23:29:55 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181030 23:29:55 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181030 23:29:55 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181030 23:29:55 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181030 23:29:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181030 23:30:18 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:30:18 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181030 23:30:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181030 23:30:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181030 23:30:18 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:8  
+Utils.timestamp_today()	1540828800
+20181030 23:30:18 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:9  
+Utils.timestamp_yesterday()	1540742400
+20181030 23:30:18 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+bonues_time	nil
+20181030 23:43:58 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181030 23:43:58 !!!!!ERROR!!!!! trunk:0  
+error loading module 'system_server/login_bonues' from file '../../apps/lua/scripts/system_server/login_bonues.lua':
+	../../apps/lua/scripts/system_server/login_bonues.lua:5: unexpected symbol near '<\229>'
+20181030 23:43:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181030 23:44:49 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181030 23:44:49 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181030 23:44:49 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181030 23:44:49 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181030 23:44:49 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181030 23:45:04 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:45:04 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181030 23:45:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181030 23:45:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181030 23:45:07 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181030 23:45:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181030 23:45:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:183  
+*****update_login_bonues_status**********
+20181030 23:45:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:211  
+*****add_chip**********
+20181030 23:45:07 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:103  
+send:	0

@@ -1,0 +1,440 @@
+20180928 00:01:45 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 00:01:45 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 00:01:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 00:02:02 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:5  
+Auth server recvive msg:
+20180928 00:02:02 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:7  
+1	1	1	IR64vD3gUBBuoVtJmqPA1Nh0nKxfQqhM
+20180928 00:02:25 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:5  
+Auth server recvive msg:
+20180928 00:02:25 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:7  
+1	1	2	6mJkQz8LC9PD8d64zL51bgbAJ1l72c8V
+20180928 00:02:29 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:5  
+Auth server recvive msg:
+20180928 00:02:29 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:7  
+1	1	2	AD050JuT6DmhRlyNwIQXVfJDwohvQ6U8
+20180928 16:46:54 !!!!!ERROR!!!!! trunk:0  
+error loading module 'database/mysql_auth_center' from file '../../apps/lua/scripts/database/mysql_auth_center.lua':
+	../../apps/lua/scripts/database/mysql_auth_center.lua:96: '}' expected (to close '{' at line 95) near '<\239>'
+20180928 16:48:02 !!!!!ERROR!!!!! trunk:0  
+error loading module 'database/mysql_auth_center' from file '../../apps/lua/scripts/database/mysql_auth_center.lua':
+	../../apps/lua/scripts/database/mysql_auth_center.lua:94: '}' expected (to close '{' at line 93) near '<\239>'
+20180928 16:48:22 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 16:48:22 !!!!!ERROR!!!!! trunk:0  
+error loading module 'auth_server/guest' from file '../../apps/lua/scripts/auth_server/guest.lua':
+	../../apps/lua/scripts/auth_server/guest.lua:25: 'then' expected near '='
+20180928 16:48:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:11:39 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:11:39 !!!!!ERROR!!!!! trunk:0  
+error loading module 'auth_server/guest' from file '../../apps/lua/scripts/auth_server/guest.lua':
+	../../apps/lua/scripts/auth_server/guest.lua:25: 'then' expected near '='
+20180928 17:11:39 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:13:02 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:13:02 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/auth_server/auth_service.lua:6: attempt to index a boolean value (local 'guest')
+20180928 17:13:02 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:43:42 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:43:42 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/auth_server/auth_service.lua:6: attempt to index a boolean value (local 'guest')
+20180928 17:43:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:46:28 DEBUG ../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:46:28 ERROR trunk:0  
+../../apps/lua/scripts/auth_server/auth_service.lua:6: attempt to index a boolean value (local 'guest')
+20180928 17:46:28 DEBUG ../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:46:53 DEBUG ../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:46:53 ERROR trunk:0  
+../../apps/lua/scripts/auth_server/auth_service.lua:6: attempt to index a boolean value (local 'guest')
+20180928 17:46:53 DEBUG ../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:47:51 DEBUG ../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:47:51 ERROR trunk:0  
+../../apps/lua/scripts/auth_server/auth_service.lua:6: attempt to index a boolean value (local 'guest')
+20180928 17:47:51 DEBUG ../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:48:26 DEBUG ../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:48:26 DEBUG ../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 17:48:26 DEBUG ../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:48:32 DEBUG ../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:48:32 DEBUG ../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 17:48:32 DEBUG ../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:48:41 DEBUG ../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:48:41 DEBUG ../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 17:48:42 DEBUG ../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:49:31 DEBUG ../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:49:31 DEBUG ../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 17:49:31 DEBUG ../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:50:33 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:50:33 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 17:50:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:50:53 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 17:50:53 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	hdSKBW0PD9MnIjPNjjqncKvaTNCxrz4B
+20180928 17:52:03 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 17:52:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	9oyTGTxq8va5tw9yGTjqvh9VIrMgPaT5
+20180928 17:54:53 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:54:53 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 17:54:53 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:56:04 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 17:56:04 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	FSbe170dmumUBgEL6EInly6Iu5qlVeRj
+20180928 17:56:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:38  
+mysql 38
+20180928 17:56:04 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 17:58:54 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 17:58:54 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 17:58:54 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 17:59:07 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 17:59:07 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	RhC9OokfUdpfbkf1NWBrE9RMphuRNsjY
+20180928 17:59:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:38  
+mysql 38
+20180928 17:59:07 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:00:07 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:00:07 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:00:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 18:00:22 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:00:22 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	w4eXDAUB02NsSBoUrCxjsagqjcOsoK7F
+20180928 18:00:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:39  
+mysql 38
+20180928 18:00:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:55  
+mysql 53
+20180928 18:00:22 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:59: attempt to index a nil value (local 'result')
+20180928 18:03:28 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:03:28 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:03:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 18:04:18 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:04:18 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	GH4KRcG1IzW4Oum4erUrJQ24xo4e5sjv
+20180928 18:04:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:40  
+mysql 38
+20180928 18:04:18 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:06:14 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:06:14 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:06:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 18:06:26 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:06:26 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	oEaQE32t18BA6aAwtBQoT3kCljhlG1l2
+20180928 18:06:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:40  
+mysql 38
+20180928 18:06:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:43  
+Unknown column 'isguest' in 'field list'
+20180928 18:06:26 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:06:26 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:19  
+Unknown column 'isguest' in 'field list'
+20180928 18:09:50 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:09:50 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:09:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:18  
+connect to auth center db sucess!!!
+20180928 18:15:00 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:15:00 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	NlYMPG6kuBG2Px7M1R7UGajgaVxKj1CV
+20180928 18:15:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:40  
+mysql 38
+20180928 18:15:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:55  
+mysql 53
+20180928 18:15:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:59: attempt to index a nil value (local 'result')
+20180928 18:16:43 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:16:43 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:16:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:16  
+connect to auth center db success!!!!
+20180928 18:17:07 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:17:07 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	DQwSBMaXSeJL05JPLXEw8YbCLU61Ru6o
+20180928 18:17:07 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:17:07 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:26  
+lin at 25
+20180928 18:17:07 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	DQwSBMaXSeJL05JPLXEw8YbCLU61Ru6o
+20180928 18:21:06 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:21:06 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:21:06 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:21:18 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:21:18 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	yuqrLN2VJxntLdYb0pVpd5FlLlD8Dopw
+20180928 18:21:18 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:21:18 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:26  
+lin at 25
+20180928 18:21:18 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:73: bad argument #3 to 'format' (no value)
+20180928 18:36:16 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:36:16 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:36:16 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:36:28 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:36:28 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	qT2WpMdVkysO10zhkVmQSFlRElHOQ03R
+20180928 18:36:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:37  
+mysql 38
+20180928 18:36:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:52  
+mysql 53
+20180928 18:36:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:56: attempt to index a nil value (local 'result')
+20180928 18:37:45 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:37:45 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:37:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:37:58 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:37:58 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	zgmfIpR1TYYc3EDbenPf1kwWtN3E3vA2
+20180928 18:37:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:36  
+mysql 38
+20180928 18:37:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:51  
+mysql 53
+20180928 18:37:58 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:55: attempt to index a nil value (local 'result')
+20180928 18:38:52 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:38:52 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:38:52 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:39:02 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:39:02 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	iTl6uMYgpMMnR4Kkxm5zEcgsjvNlFee6
+20180928 18:39:02 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:36  
+mysql 38
+20180928 18:39:02 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:51  
+mysql 53
+20180928 18:39:02 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:55: attempt to index a nil value (local 'result')
+20180928 18:39:27 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:39:27 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:39:27 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:39:49 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:39:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	YaoSNBpmEf41AGL9P0AcElnVOjD8D7Hr
+20180928 18:39:49 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:36  
+mysql 38
+20180928 18:39:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:39:49 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:26  
+lin at 25
+20180928 18:39:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:75: attempt to call a nil value (global 'random')
+20180928 18:40:23 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:40:23 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:40:23 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:40:29 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:40:29 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	wKcn56eOK3df2KE2wfPhNE3Q5y02V66q
+20180928 18:40:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:36  
+mysql 38
+20180928 18:40:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:51  
+mysql 53
+20180928 18:40:29 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:55: attempt to index a nil value (local 'result')
+20180928 18:42:37 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:42:37 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:42:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:42:50 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:42:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	VTp61CsJSp9f1HhOdXxF9sBtbXUqAWG3
+20180928 18:42:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:42:50 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:26  
+lin at 25
+20180928 18:42:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:77: bad argument #5 to 'format' (number expected, got nil)
+20180928 18:44:44 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:44:44 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:44:44 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:45:03 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:45:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	VlxUYxOKn8ojgu9UtYgbR8cvJixgtV0s
+20180928 18:45:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:45:03 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:26  
+lin at 25
+20180928 18:45:03 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:78: bad argument #5 to 'format' (number expected, got nil)
+20180928 18:46:11 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:46:11 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:46:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:46:39 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:46:39 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	zrMKGJTVAiytuq81amlXvpMR5NnX5AIv
+20180928 18:46:39 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:46:39 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:26  
+lin at 25
+20180928 18:46:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_auth_center.lua:79: bad argument #5 to 'format' (number expected, got nil)
+20180928 18:47:29 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:47:29 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:47:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:47:36 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:47:36 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	4PdqWghGYPwczHKT3rpNSf9xXwwVAf7D
+20180928 18:47:36 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:17  
+lin at 17
+20180928 18:47:36 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:26  
+lin at 25
+20180928 18:47:36 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	4PdqWghGYPwczHKT3rpNSf9xXwwVAf7D
+20180928 18:56:28 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 18:56:28 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 18:56:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 18:56:54 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:56:54 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	QECm12HI3l7xO0XfPMKWyuoDC43Ofd2Y
+20180928 18:56:54 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	QECm12HI3l7xO0XfPMKWyuoDC43Ofd2Y
+20180928 18:58:26 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:58:26 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	PUGbrL3qQbxfYtNRKCTcCMxqB1Qad6Vo
+20180928 18:59:04 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 18:59:04 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	2	CBtfQmYAdC2v7yI04OQPJUokuGdNziGp
+20180928 19:03:26 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 19:03:26 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 19:03:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 19:03:44 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 19:03:44 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	zrOCg0z3Q6UVddFl0GkYWGlbpp0kJoPk
+20180928 19:03:44 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	zrOCg0z3Q6UVddFl0GkYWGlbpp0kJoPk
+20180928 19:04:52 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 19:04:52 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	HxRaB69IAmd30lzfv8fOwuHaCFCUEFCd
+20180928 19:05:12 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:32  
+Auth Server Start At8000
+20180928 19:05:12 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:38  
+register Auth Service[1]  success
+20180928 19:05:12 *****DEBUG*****../../apps/lua/scripts/database/mysql_auth_center.lua:15  
+connect to auth center db sucess!!!
+20180928 19:05:37 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 19:05:37 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	1WnIe9aQf5Bw8cgBEKPMBAMcv909qwio
+20180928 19:05:37 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	1WnIe9aQf5Bw8cgBEKPMBAMcv909qwio
+20180928 19:05:56 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 19:05:56 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	5V1Fez4Nd3TiDFxgC2UUwiy3rvbmniWA
+20180928 19:05:56 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 19:05:56 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	q5dSMCjs88wTAJQLwYvG5KmGrF8LaUlH
+20180928 19:05:57 *****DEBUG*****../../apps/lua/scripts/auth_server/auth_service.lua:9  
+Auth server recvive msg:
+20180928 19:05:57 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	iVY9h5FuJvw2s4cIyeVJnYF4RCkqX21o
+20180928 19:05:57 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:13  
+1	1	1	iVY9h5FuJvw2s4cIyeVJnYF4RCkqX21o
+20180928 19:05:57 *****DEBUG*****../../apps/lua/scripts/auth_server/guest.lua:61  
+4	gst846972

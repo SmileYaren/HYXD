@@ -1,0 +1,816 @@
+20180921 01:23:37 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 01:23:37 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:31  
+regist echo server
+20180921 01:23:37 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 01:23:37 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 01:23:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 01:23:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 01:23:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 01:23:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 01:23:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 01:23:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 01:23:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 01:33:46 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 01:33:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:31  
+regist echo server
+20180921 01:33:46 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 01:33:46 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 01:34:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 01:34:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 01:34:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 01:34:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 01:34:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 01:34:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 01:34:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 01:34:44 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 01:34:44 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:31  
+regist echo server
+20180921 01:34:44 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 01:34:44 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 01:36:17 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 01:36:17 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:31  
+regist echo server
+20180921 01:36:17 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 01:36:17 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 01:36:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 01:36:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 01:36:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 01:36:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 01:36:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 01:36:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 01:36:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:22:06 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 13:22:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 13:22:06 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 13:22:06 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 13:23:02 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54667
+20180921 13:23:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54710
+20180921 13:23:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54715
+20180921 13:24:21 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:24:21 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:24:21 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:24:21 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:24:21 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:24:21 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:24:21 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:26:05 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54727
+20180921 13:26:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:26:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+2
+20180921 13:26:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:26:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+nil
+20180921 13:26:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+nil
+20180921 13:26:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+nil
+20180921 13:26:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+nil
+20180921 13:26:16 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54754
+20180921 13:30:24 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 13:30:24 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 13:30:24 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 13:30:24 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 13:30:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:30:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:30:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:30:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:30:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:30:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:30:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:32:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54825
+20180921 13:33:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:33:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:33:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:33:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:33:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:33:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:33:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:37:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54881
+20180921 13:38:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:38:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:38:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:38:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:38:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:38:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:38:06 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:40:42 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:54966
+20180921 13:40:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:40:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:40:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:40:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:40:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:40:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:40:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:41:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:55012
+20180921 13:43:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:43:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:43:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:43:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:43:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:43:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:43:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:44:36 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:55070
+20180921 13:45:10 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 13:45:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 13:45:10 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 13:45:10 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 13:45:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:45:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:45:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:45:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:45:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:45:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:45:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:49:45 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 13:49:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 13:49:45 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 13:49:45 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 13:50:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:50:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:50:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:50:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:50:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:50:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:50:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:50:49 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 13:50:49 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 13:50:49 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 13:50:49 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 13:50:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:50:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:50:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:50:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:50:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:50:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:50:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:53:28 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 13:53:28 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 13:53:28 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 13:53:28 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 13:53:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:53:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:53:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:53:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:53:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:53:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:53:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:54:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:55272
+20180921 13:56:48 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:56:48 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:56:48 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:56:48 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:56:48 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:56:48 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:56:48 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 13:59:47 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:55320
+20180921 13:59:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 13:59:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 13:59:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 13:59:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 13:59:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 13:59:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 13:59:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:00:31 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:55379
+20180921 14:04:00 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:04:00 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:04:00 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:04:00 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:04:00 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:04:00 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:04:00 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:07:35 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 14:07:35 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 14:07:35 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 14:07:35 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 14:07:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:07:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:07:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:07:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:07:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:07:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:07:46 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:09:31 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:55547
+20180921 14:09:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:09:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:09:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:09:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:09:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:09:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:09:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:10:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:55609
+20180921 14:10:20 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:10:20 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:10:20 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:10:20 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:10:20 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:10:20 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:10:20 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:13:18 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 14:13:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 14:13:18 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 14:13:18 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 14:13:32 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:13:32 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:13:32 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:13:32 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:13:32 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:13:32 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:13:32 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:18:10 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 14:18:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 14:18:10 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 14:18:10 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 14:18:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:18:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:18:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:18:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:18:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:18:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:18:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:22:28 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 14:22:28 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 14:22:28 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 14:22:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:2  
+1
+20180921 14:22:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:22:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+0
+20180921 14:22:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:7  
+blake
+20180921 14:22:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake@bycw.edu
+20180921 14:22:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+34
+20180921 14:30:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 14:30:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 14:30:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 14:30:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 14:31:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:31:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:31:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:31:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:31:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:31:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:31:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:32:56 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:56138
+20180921 14:33:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:33:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:33:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:33:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:33:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:33:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:33:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:35:02 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:56198
+20180921 14:35:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:35:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:35:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:35:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:35:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:35:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:35:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:38:05 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 14:38:05 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 14:38:05 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 14:38:05 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 14:38:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:38:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:38:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:38:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:38:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:38:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:38:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 14:39:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:21  
+esho_session_disconnect127.0.0.1:56287
+20180921 14:39:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 14:39:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 14:39:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 14:39:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 14:39:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 14:39:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 14:39:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:03:16 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:03:16 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:03:16 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:03:16 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:03:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:03:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:03:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:03:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:03:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:03:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:03:45 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:05:41 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:05:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:05:41 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:05:41 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:06:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:06:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:06:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:06:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:06:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:06:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:06:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:14:27 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:14:27 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:14:27 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:14:27 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:14:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:14:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:14:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:14:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:14:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:14:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:14:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:15:04 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:15:04 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:15:04 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:15:04 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:15:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:15:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:15:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:15:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:15:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:15:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:15:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:15:52 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:15:52 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:15:52 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:15:52 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:16:01 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:16:01 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:16:01 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:16:01 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:16:01 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:16:01 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:16:01 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:24:54 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:24:54 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:24:54 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:24:54 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:25:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:25:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:25:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:25:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:25:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:25:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:25:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:35:11 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:35:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:35:11 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:35:11 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:35:26 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:35:26 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:35:26 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:35:26 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:35:26 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:35:26 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:35:26 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:36:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:36:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:36:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:36:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:37:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:37:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:37:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:37:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:37:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:37:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:37:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:39:40 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:39:40 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:39:40 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:39:40 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:39:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:39:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:39:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:39:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:39:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:39:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:39:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:42:16 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:42:16 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:42:16 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:42:16 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:42:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:42:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:42:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:42:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:42:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:42:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:42:30 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 15:58:58 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 15:58:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 15:58:58 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 15:58:58 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 15:59:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 15:59:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 15:59:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 15:59:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 15:59:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 15:59:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 15:59:15 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8
+20180921 16:02:22 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180921 16:02:22 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:34  
+regist echo server
+20180921 16:02:22 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+echo_server.stype:1
+20180921 16:02:22 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180921 16:02:33 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180921 16:02:33 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180921 16:02:33 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180921 16:02:33 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180921 16:02:33 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180921 16:02:33 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34
+20180921 16:02:33 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:11  
+8

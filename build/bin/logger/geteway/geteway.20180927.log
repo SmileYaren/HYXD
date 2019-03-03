@@ -1,0 +1,307 @@
+20180927 11:21:54 !!!!!ERROR!!!!! trunk:0  
+error loading module 'gateway/gw_service' from file '../../apps/lua/scripts/gateway/gw_service.lua':
+	../../apps/lua/scripts/gateway/gw_service.lua:66: 'end' expected (to close 'function' at line 21) near <eof>
+20180927 11:23:19 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:29:20 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:30:26 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:31:14 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 11:31:14 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:31:36 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 11:31:36 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:32:41 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 11:32:41 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:32:42 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:32:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:17: attempt to index a nil value (field '?')
+20180927 11:34:52 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 11:34:52 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:34:53 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:34:54 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:34:58 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:34:59 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:36:34 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 11:36:34 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:36:35 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:36:36 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:36:40 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:36:41 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:36:45 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:36:46 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:36:50 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:36:51 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:36:55 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:36:56 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:37:00 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:37:01 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:37:05 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:37:06 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:37:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:37:11 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:37:15 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:37:16 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:37:20 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:37:21 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:12  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 11:38:11 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 11:38:11 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:38:12 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:38:12 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:329  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:17: attempt to index a nil value (field '?')
+20180927 11:39:26 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 11:39:26 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 11:39:27 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 11:39:27 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:16  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 11:56:53 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:53: attempt to index a nil value (field 'server')
+20180927 14:09:52 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 14:09:52 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 14:09:53 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 14:09:53 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:16  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 14:20:17 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:56  
+1	1	0
+20180927 14:22:34 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 14:22:34 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 14:22:35 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 14:22:35 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:16  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 14:22:47 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:56  
+1	1	0
+20180927 14:23:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:105: attempt to index a nil value (field 'server')
+20180927 14:23:18 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 14:23:18 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 14:23:19 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 14:23:19 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:16  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 14:23:27 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:56  
+1	1	0
+20180927 14:48:06 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:35  
+**********gw_service_init**************
+20180927 14:48:06 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 14:48:07 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:28  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 14:48:07 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:16  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 14:48:41 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:56  
+1	1	0
+20180927 14:48:57 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:119  
+remove client_sessions_ukey:1
+20180927 19:31:54 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 19:31:54 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 20:38:42 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 20:38:42 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 20:38:43 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 20:38:43 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 20:39:08 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0
+20180927 20:39:08 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:137: table index is nil
+20180927 20:45:33 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 20:45:34 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:30  
+connecting to server [Auth server]127.0.0.1:8000
+20180927 20:45:34 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:21  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 20:45:43 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:70  
+1	1	0
+20180927 21:04:45 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 21:04:45 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 21:04:46 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 21:04:46 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 21:05:08 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0
+20180927 21:05:08 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:137: table index is nil
+20180927 21:06:39 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 21:06:39 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 21:06:40 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 21:06:40 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 21:07:28 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0
+20180927 21:07:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:137: table index is nil
+20180927 21:08:22 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 21:08:22 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 21:08:23 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 21:08:23 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 21:08:28 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0
+20180927 21:08:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:136: attempt to concatenate a nil value (global 'utg')
+20180927 21:10:41 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 21:10:41 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 21:10:42 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 21:10:42 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 21:10:52 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0
+20180927 21:10:52 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:136  
+nil
+20180927 21:10:52 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:138: table index is nil
+20180927 21:11:40 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 21:11:40 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:41  
+register gw_server[1]  failed
+20180927 21:11:41 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 21:11:41 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 21:16:16 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 21:16:16 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 21:16:17 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 21:16:17 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 21:16:22 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0
+20180927 21:16:22 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:136  
+nil
+20180927 21:16:22 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:144: table index is nil
+20180927 23:07:09 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 23:07:09 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:30  
+connecting to server [Auth server]127.0.0.1:8000
+20180927 23:07:09 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:21  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 23:10:33 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 23:10:34 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:30  
+connecting to server [Auth server]127.0.0.1:8000
+20180927 23:10:35 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:17  
+connect error to server [Auth server]127.0.0.1:8000
+20180927 23:10:35 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:107  
+on_gw_session_disconnect
+20180927 23:10:39 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:30  
+connecting to server [Auth server]127.0.0.1:8000
+20180927 23:10:40 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:17  
+connect error to server [Auth server]127.0.0.1:8000
+20180927 23:10:40 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:107  
+on_gw_session_disconnect
+20180927 23:10:50 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 23:10:51 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:30  
+connecting to server [Auth server]127.0.0.1:8000
+20180927 23:10:51 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:21  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 23:11:11 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:70  
+1	1	0
+20180927 23:11:11 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:107  
+on_gw_session_disconnect
+20180927 23:52:48 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 23:52:48 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:35  
+1  1
+20180927 23:52:48 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 23:52:49 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 23:52:49 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 23:53:00 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0
+20180927 23:53:26 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/gateway/gw_service.lua:126: attempt to index a nil value (field 'server')
+20180927 23:55:59 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:43  
+**********gw_service_init**************
+20180927 23:55:59 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:35  
+1  1
+20180927 23:55:59 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:38  
+register gw_server[1]  success
+20180927 23:56:00 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 23:56:01 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:20  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 23:56:05 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 23:56:06 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:20  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 23:56:10 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 23:56:11 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:20  
+connect error to server[Auth server]127.0.0.1:8000
+20180927 23:56:15 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:36  
+connecting to server[Auth server]127.0.0.1:8000
+20180927 23:56:15 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect success to server [Auth server]127.0.0.1:8000
+20180927 23:57:55 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:59  
+1	1	0

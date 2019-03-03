@@ -1,0 +1,16 @@
+20180926 19:41:31 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:27  
+Auth Server Start At8000
+20180926 19:41:31 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/auth_server/main.lua:35: attempt to index a nil value (global 'v')
+20180926 19:43:18 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:27  
+Auth Server Start At8000
+20180926 19:43:18 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/auth_server/main.lua:35: attempt to concatenate a nil value (field 'auth')
+20180926 19:43:48 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:27  
+Auth Server Start At8000
+20180926 19:43:48 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:35  
+register Auth Service[1]  failed
+20180926 19:46:34 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:27  
+Auth Server Start At8000
+20180926 19:46:34 *****DEBUG*****../../apps/lua/scripts/auth_server/main.lua:33  
+register Auth Service[1]  success

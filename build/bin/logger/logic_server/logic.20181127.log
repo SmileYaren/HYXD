@@ -1,0 +1,171 @@
+20181127 11:29:07 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 11:29:07 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 11:29:07 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181127 11:29:07 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181127 11:29:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181127 11:30:48 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181127 11:30:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181127 11:30:48 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:48: attempt to call a nil value (global 'ret_handler')
+20181127 11:37:41 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 11:37:41 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 11:37:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181127 11:37:41 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181127 11:37:41 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181127 11:37:58 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181127 11:37:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181127 11:38:08 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181127 11:38:12 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181127 11:38:12 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:72  
+3	25	table
+20181127 11:38:12 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181127 11:44:16 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 11:44:16 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 11:44:16 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181127 11:44:16 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181127 11:44:16 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181127 11:44:31 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181127 11:44:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181127 11:44:34 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181127 11:44:37 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181127 11:44:37 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:72  
+3	25	table
+20181127 11:44:37 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181127 11:45:34 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 11:45:34 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 11:45:34 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181127 11:45:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181127 11:45:34 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181127 11:46:18 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181127 11:46:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181127 11:46:42 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181127 11:48:57 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181127 11:48:57 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:72  
+3	25	table
+20181127 11:55:41 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 11:55:41 !!!!!ERROR!!!!! trunk:0  
+error loading module 'logic_server/match_mgr' from file '../../apps/lua/scripts/logic_server/match_mgr.lua':
+	../../apps/lua/scripts/logic_server/match_mgr.lua:54: '}' expected (to close '{' at line 51) near 'seatid'
+20181127 11:55:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181127 11:55:41 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181127 11:55:41 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181127 11:56:54 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 11:56:54 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 11:56:54 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181127 11:56:54 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181127 11:56:54 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181127 11:57:07 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181127 11:57:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181127 11:57:10 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181127 11:57:15 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181127 11:57:15 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:72  
+3	25	table
+20181127 18:35:30 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 18:35:30 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 18:35:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181127 18:35:30 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181127 18:35:30 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181127 18:41:11 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 18:41:11 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 18:41:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181127 18:41:11 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181127 18:41:11 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181127 18:47:05 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181127 18:47:10 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181127 18:47:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:65  
+*************get_ugame_info****************
+20181127 18:47:16 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181127 18:47:16 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 17 disconnect!
+20181127 18:50:31 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 18:50:31 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 18:50:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181127 18:50:31 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181127 18:50:31 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!
+20181127 18:50:42 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181127 18:50:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:65  
+*************get_ugame_info****************
+20181127 18:50:44 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181127 18:50:44 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 17 disconnect!
+20181127 18:55:56 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181127 18:55:56 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181127 18:55:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:23  
+connect to moba game db success!!!!
+20181127 18:55:56 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:24  
+connect to redis game db success!!!!
+20181127 18:55:56 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:24  
+connect to redis center db success!!!!

@@ -1,0 +1,242 @@
+20180920 00:08:31 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:06:55 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:18:12 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:25:55 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:27:48 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:29:04 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:34:24 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:36:08 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:37:47 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 11:43:59 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 13:26:00 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:26:05 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:29:21 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:30:58 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:30:58 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:22  
+regist echo server
+20180920 15:32:14 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:32:14 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:22  
+regist echo server
+20180920 15:32:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:32:51 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:22  
+regist echo server
+20180920 15:34:23 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:34:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:22  
+regist echo server
+20180920 15:36:41 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:36:41 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:37:10 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:37:10 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:40:59 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:40:59 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:41:05 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua_test/scripts/main.lua:30: attempt to concatenate a nil value (field 'stype')
+20180920 15:43:13 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:43:13 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:43:18 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua_test/scripts/main.lua:31: attempt to get length of a nil value (field 'service')
+20180920 15:44:20 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:45:09 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:45:09 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:45:16 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua_test/scripts/main.lua:31: attempt to get length of a nil value (field 'service')
+20180920 15:46:24 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:46:24 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:46:30 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+#echo_server.service:0
+20180920 15:47:39 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:47:39 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:47:44 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 15:47:44 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 15:47:44 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 15:48:57 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:48:57 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:49:40 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 15:49:40 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 15:49:40 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 15:51:53 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:51:53 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:51:56 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 15:51:56 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 15:51:56 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 15:53:12 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:53:12 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:53:15 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 15:53:15 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 15:53:15 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 15:54:11 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 15:54:11 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 15:54:21 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 15:54:21 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 15:54:21 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 16:13:16 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 16:13:16 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 16:14:07 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 16:14:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 16:14:15 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 16:14:15 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 16:14:15 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 16:19:18 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 16:19:18 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 16:19:41 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 16:19:41 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 16:19:41 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 16:21:53 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 16:21:53 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 16:21:59 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 16:21:59 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 16:21:59 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 16:22:47 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 16:22:47 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 16:22:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 16:22:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 16:22:51 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 16:28:40 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 16:28:40 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 16:28:43 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 16:28:43 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 16:28:43 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 16:59:19 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 16:59:19 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 16:59:25 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 16:59:25 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 16:59:25 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 17:00:43 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 17:00:43 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 17:00:46 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 17:00:46 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 17:00:46 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 17:04:55 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 17:04:55 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 17:04:58 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 17:04:58 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 17:04:58 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 18:46:23 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 18:46:23 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 18:46:32 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 18:46:32 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 18:46:32 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 18:49:38 *****DEBUG*****../../apps/lua_test/scripts/main.lua:26  
+start service success !!!
+20180920 18:49:38 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:26  
+regist echo server
+20180920 18:49:56 *****DEBUG*****../../apps/lua_test/scripts/main.lua:30  
+1111111
+20180920 18:49:56 *****DEBUG*****../../apps/lua_test/scripts/main.lua:31  
+echo_server.stype:1
+20180920 18:49:56 *****DEBUG*****../../apps/lua_test/scripts/main.lua:32  
+#echo_server.service:0
+20180920 19:32:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:3  
+1
+20180920 19:32:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:4  
+1
+20180920 19:32:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:5  
+0
+20180920 19:32:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:8  
+blake
+20180920 19:32:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:9  
+blake@bycw.edu
+20180920 19:32:07 *****DEBUG*****../../apps/lua_test/scripts/echo_server.lua:10  
+34

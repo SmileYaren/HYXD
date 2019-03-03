@@ -1,0 +1,10 @@
+20181205 07:26:19 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:181  
+gateway disconnect [Logic server]
+20181205 07:26:20 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:40  
+connecting to server[Logic server]127.0.0.1:8002
+20181205 07:26:21 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect error to server[Logic server]127.0.0.1:8002
+20181205 07:26:25 *****DEBUG*****../../apps/lua/scripts/gateway/gw_service.lua:40  
+connecting to server[Logic server]127.0.0.1:8002
+20181205 07:26:26 !!!!!ERROR!!!!! ../../apps/lua/scripts/gateway/gw_service.lua:24  
+connect error to server[Logic server]127.0.0.1:8002

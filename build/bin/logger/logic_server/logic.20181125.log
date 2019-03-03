@@ -1,0 +1,2006 @@
+20181125 11:32:22 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:32:22 !!!!!ERROR!!!!! trunk:0  
+error loading module 'logic_server/game_mgr' from file '../../apps/lua/scripts/logic_server/game_mgr.lua':
+	../../apps/lua/scripts/logic_server/game_mgr.lua:56: 'then' expected near 'Logger'
+20181125 11:32:23 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:34:42 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:34:42 !!!!!ERROR!!!!! trunk:0  
+error loading module 'logic_server/game_mgr' from file '../../apps/lua/scripts/logic_server/game_mgr.lua':
+	../../apps/lua/scripts/logic_server/game_mgr.lua:96: 'then' expected near '='
+20181125 11:34:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:35:32 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:35:32 !!!!!ERROR!!!!! trunk:0  
+error loading module 'logic_server/game_mgr' from file '../../apps/lua/scripts/logic_server/game_mgr.lua':
+	../../apps/lua/scripts/logic_server/game_mgr.lua:143: syntax error near 'zid'
+20181125 11:35:32 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:37:04 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:37:04 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/logic_server/game_mgr.lua:9: module 'login_server/match_mgr' not found:
+	no field package.preload['login_server/match_mgr']
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\lua\login_server/match_mgr.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\lua\login_server/match_mgr\init.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\login_server/match_mgr.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\login_server/match_mgr\init.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\..\share\lua\5.3\login_server/match_mgr.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\..\share\lua\5.3\login_server/match_mgr\init.lua'
+	no file '.\login_server/match_mgr.lua'
+	no file '.\login_server/match_mgr\init.lua'
+	no file '../../apps/lua/scripts/login_server/match_mgr.lua'
+	no file '../../apps/lua/scripts/login_server/match_mgr/init.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\login_server/match_mgr.dll'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\..\lib\lua\5.3\login_server/match_mgr.dll'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\loadall.dll'
+	no file '.\login_server/match_mgr.dll'
+20181125 11:37:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:37:04 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 11:37:44 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:37:44 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/logic_server/logic_service.lua:10: table index is nil
+20181125 11:37:44 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:37:44 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 11:41:49 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:41:49 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 11:41:49 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:41:49 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 11:46:28 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:46:28 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 11:46:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:46:28 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 11:47:27 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 11:47:27 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:24: attempt to index a nil value (global 'State')
+20181125 11:47:32 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 11:47:32 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:24: attempt to index a nil value (global 'State')
+20181125 11:48:59 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:48:59 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 11:48:59 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:48:59 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 11:49:28 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 11:49:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:26: attempt to index a boolean value (upvalue 'State')
+20181125 11:51:51 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 11:51:51 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 11:51:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 11:51:51 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 11:52:07 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 11:52:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 11:52:07 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 11:52:52 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 11:52:52 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 	17	 disconnect!
+20181125 11:55:09 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 11:55:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 11:55:09 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 11:55:25 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 11:55:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 	17	 disconnect!
+20181125 11:56:06 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 11:56:06 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 11:56:06 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 11:56:16 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 11:57:09 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 11:57:42 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 11:57:42 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 	17	 disconnect!
+20181125 11:58:16 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 11:58:16 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 11:58:16 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 11:58:37 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 11:59:24 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 11:59:24 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 	17	 disconnect!
+20181125 12:00:18 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 12:00:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 12:00:18 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 12:00:36 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 12:06:48 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 12:06:48 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 12:06:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 12:06:48 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 12:07:17 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 12:07:17 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 12:07:17 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 12:08:13 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 12:28:03 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 12:28:03 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 12:28:03 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 12:28:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 12:28:14 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 12:28:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 12:28:14 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 12:28:37 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 12:28:37 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:133  
+******enter_zone*********
+20181125 12:28:37 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:155: attempt to index a nil value (global 'cmd')
+20181125 12:28:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:28:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:28:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:28:54 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:28:59 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:04 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:09 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:14 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:19 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:24 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:29 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:34 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:54 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:29:59 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:04 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:09 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:14 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:19 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:24 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:29 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:34 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:54 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:30:59 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:04 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:09 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:14 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:19 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:24 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:29 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:34 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:31:54 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:32:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:32:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:32:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:40: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 12:32:21 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 12:32:21 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 12:32:21 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 12:32:21 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 12:32:39 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 12:32:39 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 12:32:39 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login
+20181125 12:32:42 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 12:32:42 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:133  
+******enter_zone*********
+20181125 12:32:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:26: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 12:35:12 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 12:35:12 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:133  
+******enter_zone*********
+20181125 12:39:04 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 12:39:04 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:104  
+remove from wait list
+20181125 12:39:04 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 	17	 disconnect!
+20181125 12:39:18 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 12:39:18 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 12:39:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 12:39:18 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 12:39:30 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 12:39:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 12:39:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:86  
+ first login	17
+20181125 12:39:44 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 12:39:44 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:132  
+******enter_zone*********
+20181125 12:39:44 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:135  
+******enter_zone*********	17
+20181125 12:39:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:26: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 12:46:56 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 12:46:56 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 12:46:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 12:46:56 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 12:47:09 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 12:47:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 12:47:09 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:86  
+ first login	17
+20181125 12:47:15 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 12:47:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:132  
+******enter_zone*********
+20181125 12:47:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:135  
+******enter_zone*********	17
+20181125 12:47:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:26: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 19:28:51 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 19:28:51 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 19:28:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 19:28:51 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 19:29:14 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 19:29:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 19:29:14 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:86  
+ first login	17
+20181125 19:29:20 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 19:29:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:132  
+******enter_zone*********
+20181125 19:29:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:135  
+******enter_zone*********	17
+20181125 19:29:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:26: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 19:35:05 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 19:35:05 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 19:35:05 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 19:35:05 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 19:35:09 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 19:35:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 19:35:09 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:86  
+ first login	17
+20181125 19:35:13 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 19:35:13 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:132  
+******enter_zone*********
+20181125 19:35:13 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:135  
+******enter_zone*********	17
+20181125 19:35:13 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:26: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 19:40:18 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 19:40:18 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 19:40:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 19:40:18 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 19:40:51 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 19:40:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 19:42:02 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:86  
+ first login	17
+20181125 19:42:08 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 19:42:08 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:132  
+******enter_zone*********
+20181125 19:42:08 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:135  
+******enter_zone*********	17
+20181125 19:42:31 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:26: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 19:44:22 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 19:44:22 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 19:44:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 19:44:22 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 19:44:25 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 19:44:31 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 19:44:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 19:44:34 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:87  
+ first login	17
+20181125 19:44:40 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 19:44:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:133  
+******enter_zone*********
+20181125 19:44:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:136  
+******enter_zone*********	17
+20181125 19:45:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\service_export_to_lua.cc:109  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:26: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 19:45:18 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 19:45:18 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:104  
+remove from wait list
+20181125 19:45:18 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 	17	 disconnect!
+20181125 19:50:54 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 19:50:54 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 19:50:54 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 19:50:54 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 19:50:56 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 19:51:19 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 19:51:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 19:51:34 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 19:51:48 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:51:53 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:51:58 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:52:03 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:52:08 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:52:13 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:52:18 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:52:23 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:39: attempt to index a boolean value (upvalue 'match_mgr')
+20181125 19:52:24 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 19:52:24 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:102  
+remove from wait list
+20181125 19:52:24 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 17 disconnect!
+20181125 22:26:07 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 22:26:13 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:26:13 !!!!!ERROR!!!!! trunk:0  
+error loading module 'logic_server/match_mgr' from file '../../apps/lua/scripts/logic_server/match_mgr.lua':
+	../../apps/lua/scripts/logic_server/match_mgr.lua:39: 'then' expected near 'self'
+20181125 22:26:13 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:26:13 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:26:58 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 22:27:00 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:27:00 !!!!!ERROR!!!!! trunk:0  
+error loading module 'logic_server/match_mgr' from file '../../apps/lua/scripts/logic_server/match_mgr.lua':
+	../../apps/lua/scripts/logic_server/match_mgr.lua:58: unexpected symbol near '<\239>'
+20181125 22:27:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:27:00 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:27:25 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 22:27:27 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:27:27 !!!!!ERROR!!!!! trunk:0  
+error loading module 'logic_server/match_mgr' from file '../../apps/lua/scripts/logic_server/match_mgr.lua':
+	../../apps/lua/scripts/logic_server/match_mgr.lua:64: unexpected symbol near '<\239>'
+20181125 22:27:27 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:27:27 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:27:40 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:21  
+Logic service disconnect with gateway !!!
+20181125 22:27:42 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:27:42 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:27:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:27:42 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:27:57 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:27:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:28:19 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:28:19 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:28:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:28:19 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:28:32 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:28:32 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:28:37 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:28:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:28:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:28:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:28:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:35 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to index a nil value (local 'match')
+20181125 22:29:50 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:29:50 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:29:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:29:50 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:29:58 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:29:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:30:02 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:30:06 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:11 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:16 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:21 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:26 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:31 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:36 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:41 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:46 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:51 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:30:56 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:01 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:06 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:11 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:16 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:21 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:26 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:31 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:36 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:41 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:46 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:51 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:31:56 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:01 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:06 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:11 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:16 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:21 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:26 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:31 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:36 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:41 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:46 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:51 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:32:56 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:33:01 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:33:06 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:33:11 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:41: attempt to call a nil value (method 'init')
+20181125 22:33:19 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:33:19 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:33:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:33:19 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:33:37 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:33:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:33:51 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:33:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:33:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:35 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:45 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:34:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:34:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:35 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:45 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:35:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:35:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:35 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:45 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:36:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:36:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:35 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:45 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:37:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:37:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:35 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:45 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:38:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:38:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:25 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:35 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:40 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:45 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:45 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:50 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:39:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:39:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:40:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:40:00 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:40:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:40:05 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:40:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:40:10 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:40:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:40:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:40:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:40:20 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:40:35 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:40:35 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:40:35 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:40:35 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:41:03 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:41:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:41:06 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:41:11 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:41:11 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:41:16 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:41:16 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:41:20 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 22:41:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:103  
+remove from wait list
+20181125 22:41:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:111  
+player uid 17 disconnect!
+20181125 22:42:27 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:42:27 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:42:27 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:42:27 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:43:09 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:43:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:43:12 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:43:16 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:43:16 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/game_mgr.lua:42: attempt to call a nil value (method 'init')
+20181125 22:43:24 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:43:24 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:43:24 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:43:24 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:43:56 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:43:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:44:05 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:44:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:10 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:15 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:20 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:25 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:30 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:35 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:40 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:45 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:45 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:50 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:50 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:44:55 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:44:55 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:00 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:00 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:05 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:05 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:10 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:10 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:15 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:15 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:20 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:20 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:25 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:25 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:30 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:30 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:35 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:35 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:40 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:45:40 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:45:46 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:45:46 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:45:46 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:45:46 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:46:02 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:46:02 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:46:05 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:46:07 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:46:07 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+nil	1
+20181125 22:46:07 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:46:12 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:46:12 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+nil	1
+20181125 22:46:12 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:46:17 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:46:17 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+nil	1
+20181125 22:46:17 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:46:22 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:46:22 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+nil	1
+20181125 22:46:22 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:46:27 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:46:27 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+nil	1
+20181125 22:46:27 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:46:32 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:46:32 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+nil	1
+20181125 22:46:32 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:46:37 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:41  
+table	1
+20181125 22:46:37 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+nil	1
+20181125 22:46:37 !!!!!ERROR!!!!! ../../apps/lua/scripts/logic_server/game_mgr.lua:56  
+match system error : player state: 	1
+20181125 22:47:16 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:47:16 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:47:16 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:47:16 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:47:25 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:47:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:47:28 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:47:32 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:47:32 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:47:37 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:47:37 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:47:42 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:47:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:47:47 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:47:47 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:47:52 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:47:52 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:47:57 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:47:57 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:02 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:02 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:07 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:07 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:12 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:12 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:17 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:17 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:21 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 22:48:21 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:102  
+remove from wait list
+20181125 22:48:21 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 17 disconnect!
+20181125 22:48:26 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:48:26 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:48:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:48:26 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:48:34 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:48:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:48:37 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:48:41 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:41 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:46 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:46 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:51 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:51 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:48:56 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:48:56 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:49:01 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:01 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:49:06 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:06 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: attempt to call a nil value (field 'send_cmd')
+20181125 22:49:10 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:49:10 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:49:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:49:10 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:49:19 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:49:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:49:22 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:49:26 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:26 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:49:31 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:31 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:49:36 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:36 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:49:41 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:41 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:49:46 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:46 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:49:51 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:51 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:49:56 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:49:56 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:50:01 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	4
+20181125 22:50:01 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:102  
+remove from wait list
+20181125 22:50:01 *****DEBUG*****../../apps/lua/scripts/logic_server/game_mgr.lua:110  
+player uid 17 disconnect!
+20181125 22:50:03 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:50:03 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:50:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:50:03 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:50:03 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181125 22:50:31 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:50:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:51:01 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:51:06 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:51:06 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:51:13 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:51:13 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:51:13 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:51:13 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:51:13 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181125 22:51:33 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:51:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:51:36 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:51:36 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:51:39 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:51:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:51:44 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:51:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:51:49 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:51:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:51:54 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:51:54 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:51:59 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:51:59 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:04 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:04 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:09 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:09 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:14 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:14 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:19 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:19 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:24 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:24 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:29 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:29 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:34 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:34 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:39 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:44 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:49 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:54 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:54 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:52:59 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:52:59 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:04 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:04 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:09 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:09 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:14 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:14 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:74: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:20 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:53:20 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:53:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:53:20 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:53:33 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:53:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:53:36 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:53:36 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:36 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:41 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:41 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:46 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:46 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:51 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:51 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:53:56 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:53:56 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:01 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:01 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:06 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:06 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:11 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:11 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:16 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:16 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:21 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:21 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:26 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:26 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:31 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:31 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:36 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:36 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:41 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:54:41 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:67: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:54:47 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:54:47 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:54:47 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:54:47 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:55:08 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:55:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:55:11 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:55:13 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:13 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:13 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:18 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:18 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:18 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:23 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:23 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:23 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:28 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:28 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:33 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:33 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:33 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:38 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:38 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:43 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:43 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:43 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:48 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:48 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:53 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:53 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:53 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:55:58 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:55:58 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:55:58 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:03 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:03 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:03 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:08 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:08 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:08 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:13 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:13 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:13 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:18 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:18 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:18 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:23 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:23 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:23 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:28 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:28 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:33 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:33 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:33 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:38 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:38 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:43 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:43 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:43 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:48 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:48 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:53 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:53 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:53 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:56:58 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:56:58 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:56:58 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:03 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:03 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:03 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:08 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:08 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:08 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:13 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:13 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:13 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:18 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:18 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:18 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:23 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:23 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:23 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:28 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:28 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:33 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:33 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:33 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:38 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:38 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:38 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:43 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:43 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:43 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:48 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:48 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:48 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:53 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:53 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:53 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:57:58 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:57:58 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:57:58 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:58:08 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:58:08 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:58:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:58:08 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:58:23 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:58:23 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 22:58:28 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 22:58:29 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:58:29 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:58:29 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:58:34 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:58:34 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:58:34 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:58:39 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:58:39 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:58:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:58:44 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:58:44 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:58:44 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:58:49 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:58:49 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:58:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:58:54 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:58:54 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:58:54 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:58:59 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:58:59 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:58:59 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:59:04 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:59:04 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:59:04 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:59:09 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:59:09 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:59:09 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:59:14 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:59:14 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:59:14 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:59:19 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:59:19 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:59:19 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:59:24 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 22:59:24 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+nil	25	table
+20181125 22:59:24 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:68: bad argument #-1 to 'send_msg' (number expected, got nil)
+20181125 22:59:31 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 22:59:31 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 22:59:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 22:59:31 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 22:59:58 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 22:59:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 23:00:01 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	23
+20181125 23:00:02 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:02 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:02 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:02 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:07 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:07 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:07 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:07 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:12 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:12 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:12 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:12 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:17 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:17 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:17 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:17 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:22 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:22 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:22 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:22 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:27 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:27 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:27 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:27 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:32 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:32 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:32 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:32 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:37 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:37 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:37 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:37 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:42 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:42 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:47 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:47 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:47 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:47 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:53 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:53 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:53 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:53 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:00:58 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:00:58 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:00:58 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:00:58 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:01:03 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:01:03 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:01:03 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:01:03 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:01:08 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:01:08 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:01:08 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:01:08 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:01:13 *****DEBUG*****../../apps/lua/scripts/logic_server/match_mgr.lua:43  
+1	1
+20181125 23:01:13 *****DEBUG*****../../apps/lua/scripts/logic_server/player.lua:63  
+3	25	table
+20181125 23:01:13 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:166  
+cant find required field seatid
+
+20181125 23:01:13 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:53: attempt to index a nil value (field 'uinfo')
+20181125 23:01:22 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 23:01:22 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 23:01:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 23:01:22 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 23:01:39 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 23:01:39 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 23:01:39 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:41: attempt to index a nil value (global 'redis_center')
+20181125 23:01:47 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 23:01:47 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 23:01:47 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:41: attempt to index a nil value (global 'redis_center')
+20181125 23:02:31 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:32  
+Logic Server Start At8002
+20181125 23:02:31 *****DEBUG*****../../apps/lua/scripts/logic_server/main.lua:38  
+register Logic Service[3]  success
+20181125 23:02:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181125 23:02:31 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181125 23:02:31 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181125 23:02:48 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 23:02:49 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 23:02:49 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:48: attempt to call a nil value (global 'ret_handler')
+20181125 23:02:55 *****DEBUG*****../../apps/lua/scripts/logic_server/logic_service.lua:13  
+**********on_logic_recv_cmd:	21
+20181125 23:02:55 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:57  
+*************get_ugame_info****************
+20181125 23:02:55 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/logic_server/player.lua:48: attempt to call a nil value (global 'ret_handler')

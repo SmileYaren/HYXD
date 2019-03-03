@@ -1,0 +1,143 @@
+20181026 00:00:23 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 00:00:23 !!!!!ERROR!!!!! trunk:0  
+error loading module 'moba_game_config' from file '../../apps/lua/scripts/moba_game_config.lua':
+	../../apps/lua/scripts/moba_game_config.lua:9: '}' expected (to close '{' at line 2) near 'login_bonues'
+20181026 00:23:57 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 00:23:57 !!!!!ERROR!!!!! trunk:0  
+error loading module 'moba_game_config' from file '../../apps/lua/scripts/moba_game_config.lua':
+	../../apps/lua/scripts/moba_game_config.lua:9: '}' expected (to close '{' at line 2) near 'login_bonues'
+20181026 00:26:30 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 00:26:30 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/system_server/ugame.lua:5: module 'system_server/login_bonues' not found:
+	no field package.preload['system_server/login_bonues']
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\lua\system_server/login_bonues.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\lua\system_server/login_bonues\init.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\system_server/login_bonues.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\system_server/login_bonues\init.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\..\share\lua\5.3\system_server/login_bonues.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\..\share\lua\5.3\system_server/login_bonues\init.lua'
+	no file '.\system_server/login_bonues.lua'
+	no file '.\system_server/login_bonues\init.lua'
+	no file '../../apps/lua/scripts/system_server/login_bonues.lua'
+	no file '../../apps/lua/scripts/system_server/login_bonues/init.lua'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\system_server/login_bonues.dll'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\..\lib\lua\5.3\system_server/login_bonues.dll'
+	no file 'E:\VS_Project\moba_game_server\moba_server\build\bin\loadall.dll'
+	no file '.\system_server/login_bonues.dll'
+20181026 00:26:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 00:29:43 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 00:29:43 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/system_server/system_server.lua:7: table index is nil
+20181026 00:29:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:18:21 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:18:21 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/system_server/system_server.lua:7: table index is nil
+20181026 10:18:21 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:19:21 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:19:21 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/system_server/system_server.lua:8: table index is nil
+20181026 10:19:21 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:23:29 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:23:29 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 10:23:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:24:31 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181026 10:24:31 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/login_bonues.lua:38: attempt to call a nil value (field 'get_bonues_info')
+20181026 10:29:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:29:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 10:29:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:29:38 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181026 10:29:38 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/login_bonues.lua:38: attempt to call a nil value (field 'get_bonues_info')
+20181026 10:37:11 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:37:11 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 10:37:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:37:30 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181026 10:37:30 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:48  
+get_bonues_info nil
+20181026 10:37:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/login_bonues.lua:50: attempt to call a nil value (field 'get_bonues_info')
+20181026 10:38:54 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:38:54 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 10:38:54 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:39:23 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181026 10:39:23 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_game.lua:135: attempt to index a nil value (global 'Utils')
+20181026 10:41:38 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:41:38 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 10:41:38 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:42:57 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:42:57 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 10:42:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:56:58 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 10:56:58 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 10:56:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 10:57:28 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181026 10:57:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_game.lua:135: bad argument #3 to 'format' (number expected, got function)
+20181026 11:00:11 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 11:00:11 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 11:00:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 11:00:34 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 11:00:34 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 11:00:34 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 11:01:57 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 11:01:57 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 11:01:57 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 11:02:13 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181026 11:13:52 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181026 16:06:04 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181026 16:06:04 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181026 16:06:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181026 16:29:35 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********

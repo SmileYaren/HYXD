@@ -1,0 +1,37 @@
+20180926 18:02:14 !!!!!ERROR!!!!! trunk:0  
+error loading module 'game_config' from file '../../apps/lua/scripts/game_config.lua':
+	../../apps/lua/scripts/game_config.lua:17: '}' expected (to close '{' at line 15) near 'gateway_tcp_port'
+20180926 18:04:25 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:39  
+register gw_server[1]  failed
+20180926 19:08:07 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:39  
+register gw_server[1]  failed
+20180926 19:12:05 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:39  
+register gw_server[1]  failed
+20180926 19:13:12 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:40  
+register gw_server[1]  failed
+20180926 19:19:42 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/gateway/main.lua:33: attempt to call a nil value (global 'PrintTable')
+20180926 19:21:59 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/gateway/main.lua:33: attempt to index a boolean value
+20180926 19:22:48 !!!!!ERROR!!!!! trunk:0  
+../../apps/lua/scripts/gateway/main.lua:34: attempt to index a boolean value (local 'extern')
+20180926 19:23:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:12  
+  {
+20180926 19:23:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:22  
+    on_session_recv_cm = function: 0148FE20
+20180926 19:23:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:22  
+    on_session_disconnect = function: 01490180
+20180926 19:23:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:25  
+  }
+20180926 19:23:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:71  
+register gw_server[1]  failed
+20180926 19:27:11 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[1]  success
+20180926 19:27:38 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[1]  success
+20180926 19:28:03 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:40  
+register gw_server[1]  failed
+20180926 19:28:17 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[1]  success
+20180926 19:38:43 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_server[1]  success

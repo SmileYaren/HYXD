@@ -1,0 +1,1 @@
+maba_gameserver.exe ../../apps/lua/scripts/ gateway/main.lua

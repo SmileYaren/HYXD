@@ -1,0 +1,164 @@
+20181110 13:14:52 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181110 13:14:52 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181110 13:14:52 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181110 13:14:52 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181110 13:14:52 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181110 13:14:52 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:28  
+***********flush_world_rank_with_uchip_inredis*************
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:25  
+500	0	5
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:155  
+*****update_login_bonues**********
+20181110 13:15:10 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:39  
+user add rank list success!!!	17	2000
+20181110 13:15:15 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:15:15 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:86  
+*********get_world_uchip_rank**********
+20181110 13:15:15 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:50  
+***********get_world_rank_with_uchip_inredis*********
+20181110 13:15:15 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:58  
+zrevrange WOLD_CHIP_RANK inredis  success!!!!
+20181110 13:15:15 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:109  
+get world rank list >=1!!!
+20181110 13:15:15 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:12  
+*******send_rank_info_to_client*******	1	1	1
+20181110 13:15:15 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/game_rank.lua:13: attempt to index a nil value (field '?')
+20181110 13:15:21 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:15:21 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:86  
+*********get_world_uchip_rank**********
+20181110 13:15:21 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:50  
+***********get_world_rank_with_uchip_inredis*********
+20181110 13:15:21 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:58  
+zrevrange WOLD_CHIP_RANK inredis  success!!!!
+20181110 13:15:21 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:109  
+get world rank list >=1!!!
+20181110 13:15:21 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:12  
+*******send_rank_info_to_client*******	1	1	1
+20181110 13:15:21 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/game_rank.lua:13: attempt to index a nil value (field '?')
+20181110 13:16:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181110 13:16:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181110 13:16:10 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181110 13:16:10 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181110 13:16:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181110 13:16:10 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181110 13:16:17 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:16:17 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181110 13:16:17 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181110 13:16:17 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:28  
+***********flush_world_rank_with_uchip_inredis*************
+20181110 13:16:17 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181110 13:16:17 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:39  
+user add rank list success!!!	17	2000
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:86  
+*********get_world_uchip_rank**********
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:50  
+***********get_world_rank_with_uchip_inredis*********
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:58  
+zrevrange WOLD_CHIP_RANK inredis  success!!!!
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:109  
+get world rank list >=1!!!
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:12  
+*******send_rank_info_to_client*******	1	1	1
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:13  
+uface:	6
+20181110 13:16:19 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:26  
+6	gst101126
+20181110 13:20:45 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181110 13:20:45 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181110 13:20:45 *****DEBUG*****../../apps/lua/scripts/database/redis_game.lua:17  
+connect to redis game db success!!!!
+20181110 13:20:45 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:17  
+connect to redis rank db success!!!!
+20181110 13:20:45 *****DEBUG*****../../apps/lua/scripts/database/redis_center.lua:17  
+connect to redis center db success!!!!
+20181110 13:20:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181110 13:21:20 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:21:20 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181110 13:21:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181110 13:21:20 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:28  
+***********flush_world_rank_with_uchip_inredis*************
+20181110 13:21:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181110 13:21:20 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:39  
+user add rank list success!!!	17	2000
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:86  
+*********get_world_uchip_rank**********
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:50  
+***********get_world_rank_with_uchip_inredis*********
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:58  
+zrevrange WOLD_CHIP_RANK inredis  success!!!!
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:109  
+get world rank list >=1!!!
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:12  
+*******send_rank_info_to_client*******	1	1	1
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:13  
+uface:	6
+20181110 13:21:24 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:26  
+gst101126	6	0	5	2000
+20181110 13:23:30 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:23:30 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:10  
+*************ugame.get_ugame_info****************
+20181110 13:23:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181110 13:23:30 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:28  
+***********flush_world_rank_with_uchip_inredis*************
+20181110 13:23:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181110 13:23:30 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:39  
+user add rank list success!!!	17	2000
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:13  
+*********on_system_recv_cmd********
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:86  
+*********get_world_uchip_rank**********
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:50  
+***********get_world_rank_with_uchip_inredis*********
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/database/redis_rank.lua:58  
+zrevrange WOLD_CHIP_RANK inredis  success!!!!
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:109  
+get world rank list >=1!!!
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:12  
+*******send_rank_info_to_client*******	1	1	1
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:13  
+uface:	6
+20181110 13:23:31 *****DEBUG*****../../apps/lua/scripts/system_server/game_rank.lua:26  
+gst101126	6	0	5	2000

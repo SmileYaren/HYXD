@@ -1,0 +1,784 @@
+20181028 17:30:30 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 17:30:30 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 17:30:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 17:34:35 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:40:59 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:45:22 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:46:00 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 17:46:00 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 17:46:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 17:46:09 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:47:28 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 17:47:28 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 17:47:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 17:47:40 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:47:40 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+***************
+20181028 17:49:13 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 17:49:13 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 17:49:13 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 17:49:36 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:49:36 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*******get_ugame_info********
+20181028 17:49:36 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:29  
+3
+20181028 17:49:36 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:11  
+1
+20181028 17:50:26 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 17:50:26 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 17:50:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 17:50:38 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:50:38 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*******get_ugame_info********
+20181028 17:50:38 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:29  
+3
+20181028 17:50:38 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:49  
+6
+20181028 17:50:38 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:11  
+1
+20181028 17:53:04 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 17:53:04 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 17:53:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 17:53:14 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 17:53:14 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*******get_ugame_info********
+20181028 17:53:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:29  
+3
+20181028 17:53:14 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:11  
+1	nil
+20181028 17:53:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:64  
+6	table
+20181028 18:00:16 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 18:00:16 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 18:00:16 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 18:01:45 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 18:01:45 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 18:01:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 18:02:05 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 18:02:05 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:52  
+**********mysql_game.get_bonues_info******************
+20181028 18:02:05 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:60  
+1
+20181028 18:02:11 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 18:02:11 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 18:02:11 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 18:02:24 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 18:02:24 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:52  
+**********mysql_game.get_bonues_info******************
+20181028 18:02:24 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:60  
+1
+20181028 18:05:20 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 18:05:20 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 18:05:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 18:05:29 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 18:05:29 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:52  
+**********mysql_game.get_bonues_info******************
+20181028 18:05:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:99  
+5
+20181028 18:05:29 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:60  
+1
+20181028 18:07:37 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 18:07:37 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 18:07:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 18:08:10 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 18:08:10 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:52  
+**********mysql_game.get_bonues_info******************
+20181028 18:08:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:99  
+5
+20181028 18:08:10 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:60  
+1
+20181028 18:08:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:130  
+*************insert_bonues_info****************
+20181028 18:08:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:140  
+9
+20181028 18:08:58 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 18:08:58 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 18:08:58 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 18:09:53 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 18:09:53 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:52  
+**********mysql_game.get_bonues_info******************
+20181028 18:09:53 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:99  
+5
+20181028 18:09:53 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:60  
+1
+20181028 18:09:53 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:130  
+*************insert_bonues_info****************
+20181028 18:09:53 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:140  
+9
+20181028 18:09:53 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:145  
+10	Unknown column 'bonues_time' in 'field list'
+20181028 19:38:51 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 19:38:51 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 19:38:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 19:44:14 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 19:44:14 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 19:44:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 19:47:42 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 19:47:42 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 19:47:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 19:51:25 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 19:51:25 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 19:51:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:38  
+**********check_login_bonues******************
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:103  
+5
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:60  
+1
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:134  
+*************insert_bonues_info****************
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:144  
+9
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:156  
+8
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:67  
+2
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:38  
+**********check_login_bonues******************
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:103  
+5
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:73  
+3
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 19:51:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:129  
+6	table
+20181028 20:27:35 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 20:27:35 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 20:27:35 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:42  
+**********check_login_bonues******************
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:103  
+5
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:77  
+3
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:11  
+Utils.timestamp_today()	1540656000
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:12  
+ Utils.timestamp_yesterday()	1540569600
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:13  
+ Utils.timestamp()	1540729663
+20181028 20:27:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:129  
+6	table
+20181028 20:35:29 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 20:35:29 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 20:35:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:103  
+5
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:11  
+Utils.timestamp_today()	1540656000
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:12  
+ Utils.timestamp_yesterday()	1540569600
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:13  
+ Utils.timestamp()	1540730142
+20181028 20:35:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:168  
+cant find required field bonues_status
+
+20181028 20:35:42 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\session_export_to_lua.cc:242  
+convert to message UserGameInfo failed whith value uinfo 
+
+20181028 20:35:42 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:129  
+6	table
+20181028 20:47:07 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 20:47:07 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 20:47:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 20:48:56 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 20:48:56 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 20:48:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 20:48:56 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 20:48:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 20:48:56 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 20:48:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:128  
+6	table
+20181028 20:52:56 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 20:52:56 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 20:52:56 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 20:53:09 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 20:53:09 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 20:53:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 20:53:09 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 20:53:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 20:53:09 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 20:53:09 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:128  
+6	table
+20181028 21:12:19 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 21:12:19 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 21:12:19 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 21:12:40 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 21:12:40 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 21:12:40 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 21:12:40 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 21:12:40 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 21:12:40 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 21:14:20 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 21:14:20 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 21:14:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 21:14:20 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 21:14:20 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 21:14:20 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 21:17:21 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 21:17:21 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 21:17:21 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 21:17:21 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 21:17:21 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 21:17:21 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 21:18:03 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 21:18:03 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 21:18:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 21:18:03 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 21:18:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 21:18:03 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 21:18:27 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 21:18:27 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 21:18:27 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 21:18:27 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 21:18:27 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 21:18:27 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 21:18:28 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 21:18:28 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 21:18:28 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_game.lua:163: attempt to index a function value (local 'bonues_info')
+20181028 21:18:38 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 21:18:38 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 21:18:38 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 21:18:38 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 21:18:38 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 21:18:38 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 22:24:44 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 22:24:44 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 22:24:44 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 22:25:00 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 22:25:00 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 22:25:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 22:25:00 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 22:25:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 22:25:00 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 22:25:17 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 22:25:17 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 22:25:17 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 22:25:17 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:44  
+**********check_login_bonues******************
+20181028 22:25:17 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 22:25:17 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 22:25:18 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 22:25:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 22:25:18 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_game.lua:163: attempt to index a function value (local 'bonues_info')
+20181028 22:58:03 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 22:58:03 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 22:58:03 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:00:00 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:00:00 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:00:00 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:00:07 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:00:07 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:00:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:00:07 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:00:07 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:00:07 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:00:07 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:00:31 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:00:31 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:00:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:00:31 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:00:31 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:00:31 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:00:31 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	5
+20181028 23:00:50 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:00:50 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:00:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:00:50 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:00:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:00:50 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:00:50 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:00:51 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:00:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:00:51 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:166  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata login_bonues set status=0,bonues=0,bunues_time=1540727501,day=0 where uid' at line 1
+20181028 23:02:40 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:02:40 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:02:40 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:04:37 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:04:37 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:04:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:04:37 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:04:37 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:04:37 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:04:37 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:04:39 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:04:39 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:04:39 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:166  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata login_bonues set status=0,bonues=0,bunues_time=1540727501,days=0 where ui' at line 1
+20181028 23:10:08 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:10:08 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:10:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:10:21 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:10:21 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:10:21 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:10:21 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:10:21 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:10:21 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:10:21 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:10:23 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:10:23 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:10:23 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_game.lua:215: bad argument #3 to 'format' (no value)
+20181028 23:11:36 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:11:36 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:11:36 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:11:48 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:11:48 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:11:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:11:48 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:11:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:11:48 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:11:48 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:11:49 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:11:49 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:12:14 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:12:14 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:12:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:12:14 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:12:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:12:14 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:12:14 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:12:17 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:12:17 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:18:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:18:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:18:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:27:04 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:27:04 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:27:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:27:04 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:27:04 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:27:04 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:27:04 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:27:08 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:27:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:27:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:155  
+*****update_login_bonues**********
+20181028 23:27:08 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:210  
+*****add_chip**********
+20181028 23:27:08 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:112  
+send:	0
+20181028 23:29:22 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:29:22 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:29:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:29:29 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:29:29 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:29:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:29:29 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:29:29 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:29:29 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:29:29 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:29:30 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:29:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:29:30 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:155  
+*****update_login_bonues**********
+20181028 23:29:30 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_game.lua:163: attempt to index a function value (local 'bonues_info')
+20181028 23:32:33 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:32:33 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:32:33 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:32:41 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:32:41 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:32:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:32:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:45  
+**********check_login_bonues******************
+20181028 23:32:41 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:32:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:10  
+**********send_bonues_to_user*********
+20181028 23:32:41 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:40  
+send:	0
+20181028 23:32:43 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:32:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:32:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:155  
+*****update_login_bonues**********
+20181028 23:32:43 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/database/mysql_game.lua:164: attempt to index a function value (local 'bonues_info')
+20181028 23:41:22 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:41:22 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:41:22 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:41:48 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:41:48 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:41:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:41:48 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:41:50 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:41:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:41:50 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:183  
+*****update_login_bonues_status**********
+20181028 23:44:45 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:44:45 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:44:45 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:46:25 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:46:25 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:46:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:46:25 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:46:26 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:46:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:46:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:183  
+*****update_login_bonues_status**********
+20181028 23:46:26 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:196  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata login_bonues set status = 1 where uid = 17' at line 1
+20181028 23:48:18 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:48:18 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:48:18 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:49:12 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:49:12 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:49:12 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:49:12 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:49:14 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:49:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:49:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:183  
+*****update_login_bonues_status**********
+20181028 23:49:14 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:211  
+*****add_chip**********
+20181028 23:49:14 !!!!!ERROR!!!!! e:\vs_project\moba_game_server\moba_server\lua_wrapper\lua_wrapper.cc:330  
+[LUA ERROR] ../../apps/lua/scripts/system_server/login_bonues.lua:101: attempt to index a nil value (global 'bonues_inf')
+20181028 23:49:53 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:49:53 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:49:53 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:51:43 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:51:43 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:51:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:51:43 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:52:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:29  
+System Server Start at 8001
+20181028 23:52:10 *****DEBUG*****../../apps/lua/scripts/system_server/main.lua:34  
+register System service:[2] success!!!
+20181028 23:52:10 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:15  
+connect to moba game db success!!!!
+20181028 23:52:44 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:52:44 *****DEBUG*****../../apps/lua/scripts/system_server/ugame.lua:7  
+*************ugame.get_ugame_info****************
+20181028 23:52:44 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:21  
+*************get_ugame_info****************
+20181028 23:52:44 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:52:46 *****DEBUG*****../../apps/lua/scripts/system_server/system_server.lua:11  
+*********on_system_recv_cmd********
+20181028 23:52:46 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:93  
+*************get_bonues_info****************
+20181028 23:52:46 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:183  
+*****update_login_bonues_status**********
+20181028 23:52:46 *****DEBUG*****../../apps/lua/scripts/database/mysql_game.lua:211  
+*****add_chip**********
+20181028 23:52:46 *****DEBUG*****../../apps/lua/scripts/system_server/login_bonues.lua:101  
+send:	0

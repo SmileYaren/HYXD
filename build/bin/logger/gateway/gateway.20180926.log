@@ -1,0 +1,6 @@
+20180926 19:10:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:23  
+Tcp server listen At 6080
+20180926 19:10:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:25  
+Ws server listen At 6081
+20180926 19:10:21 *****DEBUG*****../../apps/lua/scripts/gateway/main.lua:37  
+register gw_servce:[1] failed!!!
